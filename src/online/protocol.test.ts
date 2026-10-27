@@ -13,7 +13,8 @@ describe('protocol', () => {
     expect(parseMsg('x')).toBeNull()
     expect(parseMsg({ t: 'hello', name: 'Ana' })).toBeNull()
     expect(parseMsg({ v: 1, t: 'hello' })).toBeNull()
-    expect(parseMsg({ v: 1, t: 'action', type: 'hit' })).toBeNull()
+    expect(parseMsg({ v: 1, t: 'action', type: 'hit' })?.t).toBe('action')
+    expect(parseMsg({ v: 1, t: 'action', type: 'start' })).toBeNull()
     expect(parseMsg({ v: 1, t: 'nope' })).toBeNull()
   })
 

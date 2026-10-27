@@ -3,7 +3,8 @@ import type { PublicState } from '../game/duel'
 export const PROTOCOL_VERSION = 1
 
 export type RejectReason = 'full' | 'version'
-export type GuestActionType = 'ready'
+export const GUEST_ACTIONS = ['ready', 'hit', 'naopode', 'skip', 'rematch'] as const
+export type GuestActionType = (typeof GUEST_ACTIONS)[number]
 
 export type Msg =
   | { v: number; t: 'hello'; name: string }
@@ -34,7 +35,7 @@ export function parseMsg(raw: unknown): Msg | null {
     case 'hello':
       return typeof m.name === 'string' ? (m as Msg) : null
     case 'action':
-      return m.type === 'ready' ? (m as Msg) : null
+      return GUEST_ACTIONS.includes(m.type as GuestActionType) ? (m as Msg) : null
     case 'state':
       return typeof m.state === 'object' && m.state !== null ? (m as Msg) : null
     case 'reject':

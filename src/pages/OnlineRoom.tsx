@@ -1,11 +1,15 @@
 import { useEffect, useRef, useState, type ReactNode } from 'react'
 import { Link, useParams } from 'react-router-dom'
+import DuelFinished from '../components/DuelFinished'
 import DuelLobby from '../components/DuelLobby'
+import DuelTurn from '../components/DuelTurn'
 import { toPublicState, type DuelState, type PublicState } from '../game/duel'
 import { startGuest, type Guest, type GuestStatus } from '../online/guest'
 import { startHost, type Host, type HostStatus } from '../online/host'
 import { isValidCode } from '../online/protocol'
 import { loadMe, loadState, saveMe } from '../online/storage'
+import { useWakeLock } from '../hooks/useWakeLock'
+import { unlockAudio } from '../lib/sound'
 
 const btn = 'flex min-h-12 items-center justify-center rounded-2xl px-6 font-bold'
 
@@ -68,6 +72,7 @@ function HostRoom({ code, name }: { code: string; name: string }) {
   const [status, setStatus] = useState<HostStatus>('connecting')
   const [guestOn, setGuestOn] = useState(false)
   const host = useRef<Host | null>(null)
+  useWakeLock(state?.phase === 'turn')
 
   useEffect(() => {
     const saved = loadState()
@@ -90,16 +95,30 @@ function HostRoom({ code, name }: { code: string; name: string }) {
         {HOST_STATUS[status]}
         {status === 'open' && !guestOn && state.names.b && ` · ${state.names.b} desconectado`}
       </p>
-      <ShareLink code={code} />
+      {view.phase === 'lobby' && <ShareLink code={code} />}
       {view.phase === 'lobby' ? (
         <DuelLobby
           state={view}
           me="a"
-          onReady={() => host.current?.dispatch({ type: 'ready', by: 'a' })}
+          onReady={() => {
+            unlockAudio()
+            host.current?.dispatch({ type: 'ready', by: 'a' })
+          }}
           onSettings={(settings) => host.current?.dispatch({ type: 'settings', by: 'a', settings })}
         />
+      ) : view.phase === 'turn' ? (
+        <DuelTurn
+          state={view}
+          me="a"
+          endsAt={state.turn.endsAt}
+          onAction={(type) => host.current?.dispatch({ type, by: 'a', now: Date.now() })}
+        />
       ) : (
-        <p>Partida em andamento.</p>
+        <DuelFinished
+          state={view}
+          me="a"
+          onRematch={() => host.current?.dispatch({ type: 'rematch' })}
+        />
       )}
     </Shell>
   )
@@ -116,12 +135,24 @@ const GUEST_STATUS: Record<GuestStatus, string> = {
 }
 
 function GuestRoom({ code, name }: { code: string; name: string }) {
-  const [state, setState] = useState<PublicState | null>(null)
+  const [view, setView] = useState<{ state: PublicState; endsAt: number | null } | null>(null)
   const [status, setStatus] = useState<GuestStatus>('connecting')
   const guest = useRef<Guest | null>(null)
+  const state = view?.state ?? null
+  useWakeLock(state?.phase === 'turn')
 
   useEffect(() => {
-    guest.current = startGuest({ code, name, onState: setState, onStatus: setStatus })
+    guest.current = startGuest({
+      code,
+      name,
+      // o cronômetro roda local e se corrige a cada mensagem do anfitrião
+      onState: (s) =>
+        setView({
+          state: s,
+          endsAt: s.turn.remainingMs === null ? null : Date.now() + s.turn.remainingMs,
+        }),
+      onStatus: setStatus,
+    })
     return () => guest.current?.stop()
   }, [code, name])
 
@@ -142,9 +173,23 @@ function GuestRoom({ code, name }: { code: string; name: string }) {
       )}
       {state &&
         (state.phase === 'lobby' ? (
-          <DuelLobby state={state} me="b" onReady={() => guest.current?.send('ready')} />
+          <DuelLobby
+            state={state}
+            me="b"
+            onReady={() => {
+              unlockAudio()
+              guest.current?.send('ready')
+            }}
+          />
+        ) : state.phase === 'turn' ? (
+          <DuelTurn
+            state={state}
+            me="b"
+            endsAt={view?.endsAt ?? null}
+            onAction={(type) => guest.current?.send(type)}
+          />
         ) : (
-          <p>Partida em andamento.</p>
+          <DuelFinished state={state} me="b" onRematch={() => guest.current?.send('rematch')} />
         ))}
     </Shell>
   )

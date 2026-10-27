@@ -3,6 +3,7 @@ import { CARDS } from '../game/cards'
 import {
   createDuel,
   duelReducer,
+  rematch,
   toPublicState,
   type DuelAction,
   type DuelState,
@@ -22,8 +23,10 @@ export type HostOptions = {
   onGuest: (connected: boolean) => void
 }
 
+export type HostAction = DuelAction | { type: 'rematch' }
+
 export type Host = {
-  dispatch: (action: DuelAction) => void
+  dispatch: (action: HostAction) => void
   stop: () => void
 }
 
@@ -34,6 +37,20 @@ export function startHost(opts: HostOptions): Host {
   let attempt = 0
   let stopped = false
   let timer: ReturnType<typeof setTimeout> | undefined
+
+  /** Os dois prontos no lobby começam a partida sozinhos. */
+  const settle = (next: DuelState): DuelState =>
+    next.phase === 'lobby' && next.ready.a && next.ready.b && next.names.b
+      ? duelReducer(next, { type: 'start', now: Date.now() })
+      : next
+
+  const apply = (action: HostAction) => {
+    if (action.type === 'rematch') {
+      if (state.phase === 'finished') commit(rematch(state, CARDS))
+    } else {
+      commit(settle(duelReducer(state, action)))
+    }
+  }
 
   const commit = (next: DuelState) => {
     if (next === state) return
@@ -73,7 +90,10 @@ export function startHost(opts: HostOptions): Host {
       commit(duelReducer(state, { type: 'join', name: m.name }))
       broadcast()
     } else if (m.t === 'action' && conn === guest) {
-      commit(duelReducer(state, { type: m.type, by: 'b' }))
+      const now = Date.now()
+      if (m.type === 'rematch') apply({ type: 'rematch' })
+      else if (m.type === 'ready') apply({ type: 'ready', by: 'b' })
+      else apply({ type: m.type, by: 'b', now })
     }
   }
 
@@ -122,15 +142,33 @@ export function startHost(opts: HostOptions): Host {
     })
   }
 
+  // vence o tempo da vez e reenvia o tempo restante para o convidado se corrigir
+  let ticks = 0
+  const clock = setInterval(() => {
+    if (state.phase !== 'turn') return
+    const before = state
+    commit(duelReducer(state, { type: 'timeout', now: Date.now() }))
+    if (state === before && ++ticks % 3 === 0) broadcast()
+  }, 1000)
+  const onVisible = () => {
+    if (document.visibilityState === 'visible') {
+      commit(duelReducer(state, { type: 'timeout', now: Date.now() }))
+      broadcast()
+    }
+  }
+  document.addEventListener('visibilitychange', onVisible)
+
   opts.onState(state)
   saveState(state)
   void connect().catch(() => retry())
 
   return {
-    dispatch: (action) => commit(duelReducer(state, action)),
+    dispatch: apply,
     stop: () => {
       stopped = true
       clearTimeout(timer)
+      clearInterval(clock)
+      document.removeEventListener('visibilitychange', onVisible)
       guest?.close()
       peer?.destroy()
     },
