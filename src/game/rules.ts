@@ -214,3 +214,29 @@ export function reducer(state: GameState, action: GameAction): GameState {
         : state
   }
 }
+
+/**
+ * Ao recarregar no meio de uma vez, a vez é desfeita e o jogo volta para
+ * "Passe o aparelho" com o tempo reiniciado; as cartas voltam ao baralho.
+ */
+export function restoreGame(state: GameState): GameState {
+  const turn = getCurrentTurn(state)
+  if (state.phase !== 'playing' || !turn) return state
+  const returned = [...turn.entries.map((e) => e.cardId)]
+  if (state.currentCardId !== null) returned.push(state.currentCardId)
+  const teams = state.teams.map((t) =>
+    t.id === turn.teamId
+      ? { ...t, nextPlayerIdx: (t.nextPlayerIdx - 1 + t.players.length) % t.players.length }
+      : t,
+  ) as [Team, Team]
+  return withTotals({
+    ...state,
+    teams,
+    phase: 'handoff',
+    history: state.history.slice(0, -1),
+    deck: [...returned, ...state.deck],
+    currentCardId: null,
+    turnEndsAt: null,
+    canUndo: false,
+  })
+}

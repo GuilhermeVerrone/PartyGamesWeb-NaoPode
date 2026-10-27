@@ -1,6 +1,13 @@
 import { beforeEach, describe, expect, it } from 'vitest'
 import { CARDS } from './cards'
-import { createGame, getCurrentTurn, reducer, TIEBREAK_SECONDS, type GameAction } from './rules'
+import {
+  createGame,
+  getCurrentTurn,
+  reducer,
+  restoreGame,
+  TIEBREAK_SECONDS,
+  type GameAction,
+} from './rules'
 import type { GameState, Settings } from './types'
 
 const baseSettings: Settings = {
@@ -269,5 +276,23 @@ describe('undo (RF-06) and correction', () => {
   it('does not correct outside the summary', () => {
     const s = run(newGame(), begin, { type: 'hit' })
     expect(run(s, { type: 'correct', entryIdx: 0, result: 'skip' })).toEqual(s)
+  })
+})
+
+describe('restoreGame', () => {
+  it('desfaz a vez em andamento e volta para o handoff com as cartas no baralho', () => {
+    const fresh = newGame()
+    const mid = run(fresh, begin, { type: 'hit' }, { type: 'skip' })
+    const restored = restoreGame(mid)
+    expect(restored.phase).toBe('handoff')
+    expect(restored.history).toHaveLength(0)
+    expect(restored.deck).toEqual(fresh.deck)
+    expect(restored.teams[0].nextPlayerIdx).toBe(0)
+    expect(restored.teams[0].score).toBe(0)
+  })
+
+  it('não mexe em outras fases', () => {
+    const s = run(newGame(), begin, { type: 'timeout' })
+    expect(restoreGame(s)).toBe(s)
   })
 })
