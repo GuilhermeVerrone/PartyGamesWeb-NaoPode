@@ -1,1 +1,124 @@
 @import 'tailwindcss';
+
+@theme {
+  --font-display: 'Fredoka Variable', 'Baloo 2', system-ui, sans-serif;
+  --font-sans: 'Nunito Variable', system-ui, sans-serif;
+  --color-night: #1e1b4b;
+  --color-team-a: #fb923c;
+  --color-team-b: #2dd4bf;
+}
+
+html {
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  background: radial-gradient(120% 80% at 50% 0%, #4c1d95 0%, var(--color-night) 60%) fixed;
+  background-color: var(--color-night);
+  color: #fff;
+  font-family: var(--font-sans);
+  overscroll-behavior: none;
+}
+
+button,
+a {
+  touch-action: manipulation;
+}
+
+button:focus-visible,
+a:focus-visible,
+input:focus-visible {
+  outline: 3px solid #facc15;
+  outline-offset: 2px;
+}
+
+/* carta entra deslizando */
+@keyframes card-in {
+  from {
+    opacity: 0;
+    transform: translateX(60px) rotate(4deg);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+.card-in {
+  animation: card-in 0.28s ease-out;
+}
+
+/* carimbo "NÃO PODE!" */
+@keyframes stamp {
+  0% {
+    opacity: 0;
+    transform: rotate(-14deg) scale(2.2);
+  }
+  40% {
+    opacity: 1;
+    transform: rotate(-14deg) scale(0.95);
+  }
+  55%,
+  85% {
+    opacity: 1;
+    transform: rotate(-14deg) scale(1);
+  }
+  100% {
+    opacity: 0;
+    transform: rotate(-14deg) scale(1);
+  }
+}
+.stamp {
+  animation: stamp 0.7s ease-out forwards;
+}
+
+@keyframes pulse-warn {
+  50% {
+    transform: scale(1.12);
+  }
+}
+.pulse-warn {
+  animation: pulse-warn 1s ease-in-out infinite;
+}
+
+/* confete */
+@keyframes confetti-fall {
+  from {
+    transform: translateY(-10vh) rotate(0deg);
+    opacity: 1;
+  }
+  to {
+    transform: translateY(110vh) rotate(720deg);
+    opacity: 0.9;
+  }
+}
+.confetti-piece {
+  position: absolute;
+  top: 0;
+  width: 10px;
+  height: 16px;
+  border-radius: 2px;
+  animation-name: confetti-fall;
+  animation-timing-function: linear;
+  animation-fill-mode: both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+  .confetti {
+    display: none;
+  }
+  .stamp {
+    animation: none !important;
+    opacity: 1;
+    transform: rotate(-14deg);
+  }
+  .pulse-warn {
+    animation: none !important;
+  }
+}
