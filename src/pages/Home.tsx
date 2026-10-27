@@ -16,6 +16,9 @@ export default function Home() {
             Continuar
           </Link>
         )}
+        <Link to="/on" className={`${btn} bg-white/10 text-base`}>
+          Duelo online
+        </Link>
         <Link to="/about" className={`${btn} bg-white/10 text-base`}>
           Sobre
         </Link>
