@@ -2,6500 +2,3500 @@
   {
     "id": "c-0001",
     "word": "Churrasco",
-    "forbidden": [
-      "carne",
-      "brasa",
-      "picanha",
-      "espeto",
-      "grelha"
-    ],
+    "forbidden": ["carne", "brasa", "picanha", "espeto", "grelha"],
     "category": "comida",
     "difficulty": 1
   },
   {
     "id": "c-0002",
     "word": "Feijoada",
-    "forbidden": [
-      "feijão",
-      "preto",
-      "sábado",
-      "linguiça",
-      "panela"
-    ],
+    "forbidden": ["grão", "preto", "sábado", "linguiça", "panela"],
     "category": "comida",
     "difficulty": 1
   },
   {
     "id": "c-0003",
     "word": "Pizza",
-    "forbidden": [
-      "massa",
-      "queijo",
-      "fatia",
-      "forno",
-      "italiana"
-    ],
+    "forbidden": ["massa", "queijo", "fatia", "forno", "italiana"],
     "category": "comida",
     "difficulty": 1
   },
   {
     "id": "c-0004",
     "word": "Hambúrguer",
-    "forbidden": [
-      "pão",
-      "carne",
-      "lanche",
-      "batata",
-      "fast food"
-    ],
+    "forbidden": ["pão", "carne", "lanche", "batata", "fast food"],
     "category": "comida",
     "difficulty": 1
   },
   {
     "id": "c-0005",
     "word": "Brigadeiro",
-    "forbidden": [
-      "chocolate",
-      "festa",
-      "doce",
-      "bolinha",
-      "granulado"
-    ],
+    "forbidden": ["chocolate", "festa", "doce", "bolinha", "granulado"],
     "category": "comida",
     "difficulty": 1
   },
   {
     "id": "c-0006",
     "word": "Pão de queijo",
-    "forbidden": [
-      "mineiro",
-      "polvilho",
-      "café da manhã",
-      "quentinho",
-      "Minas"
-    ],
+    "forbidden": ["mineiro", "polvilho", "café da manhã", "quentinho", "Minas"],
     "category": "comida",
     "difficulty": 2
   },
   {
     "id": "c-0007",
     "word": "Sorvete",
-    "forbidden": [
-      "gelado",
-      "casquinha",
-      "sabor",
-      "picolé",
-      "verão"
-    ],
+    "forbidden": ["gelado", "casquinha", "sabor", "picolé", "verão"],
     "category": "comida",
     "difficulty": 1
   },
   {
     "id": "c-0008",
     "word": "Coxinha",
-    "forbidden": [
-      "frango",
-      "salgado",
-      "massa",
-      "frito",
-      "festa"
-    ],
+    "forbidden": ["frango", "salgado", "massa", "frito", "festa"],
     "category": "comida",
     "difficulty": 1
   },
   {
     "id": "c-0009",
     "word": "Tapioca",
-    "forbidden": [
-      "goma",
-      "mandioca",
-      "recheio",
-      "nordeste",
-      "crepe"
-    ],
+    "forbidden": ["goma", "mandioca", "recheio", "nordeste", "crepe"],
     "category": "comida",
     "difficulty": 2
   },
   {
     "id": "c-0010",
     "word": "Açaí",
-    "forbidden": [
-      "roxo",
-      "tigela",
-      "granola",
-      "Amazônia",
-      "banana"
-    ],
+    "forbidden": ["roxo", "tigela", "granola", "Amazônia", "banana"],
     "category": "comida",
     "difficulty": 1
   },
   {
     "id": "c-0011",
     "word": "Macarrão",
-    "forbidden": [
-      "massa",
-      "espaguete",
-      "molho",
-      "fio",
-      "italiano"
-    ],
+    "forbidden": ["massa", "espaguete", "molho", "fio", "italiano"],
     "category": "comida",
     "difficulty": 1
   },
   {
     "id": "c-0012",
     "word": "Sushi",
-    "forbidden": [
-      "japonês",
-      "peixe",
-      "arroz",
-      "alga",
-      "hashi"
-    ],
+    "forbidden": ["japonês", "peixe", "arroz", "alga", "hashi"],
     "category": "comida",
     "difficulty": 1
   },
   {
     "id": "c-0013",
     "word": "Omelete",
-    "forbidden": [
-      "ovo",
-      "frigideira",
-      "café da manhã",
-      "dobrar",
-      "recheio"
-    ],
+    "forbidden": ["ovo", "frigideira", "café da manhã", "dobrar", "recheio"],
     "category": "comida",
     "difficulty": 1
   },
   {
     "id": "c-0014",
     "word": "Salada",
-    "forbidden": [
-      "alface",
-      "verde",
-      "tomate",
-      "folhas",
-      "saudável"
-    ],
+    "forbidden": ["alface", "verde", "tomate", "folhas", "saudável"],
     "category": "comida",
     "difficulty": 1
   },
   {
     "id": "c-0015",
     "word": "Pipoca",
-    "forbidden": [
-      "milho",
-      "cinema",
-      "estourar",
-      "manteiga",
-      "saco"
-    ],
+    "forbidden": ["milho", "cinema", "estourar", "manteiga", "saco"],
     "category": "comida",
     "difficulty": 1
   },
   {
     "id": "c-0016",
     "word": "Bolo",
-    "forbidden": [
-      "aniversário",
-      "forno",
-      "velas",
-      "fatia",
-      "confeitaria"
-    ],
+    "forbidden": ["aniversário", "forno", "velas", "fatia", "confeitaria"],
     "category": "comida",
     "difficulty": 1
   },
   {
     "id": "c-0017",
     "word": "Pastel",
-    "forbidden": [
-      "feira",
-      "frito",
-      "massa",
-      "recheio",
-      "caldo de cana"
-    ],
+    "forbidden": ["feira", "frito", "massa", "recheio", "caldo de cana"],
     "category": "comida",
     "difficulty": 1
   },
   {
     "id": "c-0018",
     "word": "Lasanha",
-    "forbidden": [
-      "massa",
-      "camadas",
-      "molho",
-      "forno",
-      "gratinar"
-    ],
+    "forbidden": ["massa", "camadas", "molho", "forno", "gratinar"],
     "category": "comida",
     "difficulty": 1
   },
   {
     "id": "c-0019",
     "word": "Mandioca",
-    "forbidden": [
-      "aipim",
-      "macaxeira",
-      "raiz",
-      "frita",
-      "cozida"
-    ],
+    "forbidden": ["aipim", "macaxeira", "raiz", "frita", "cozida"],
     "category": "comida",
     "difficulty": 2
   },
   {
     "id": "c-0020",
     "word": "Farofa",
-    "forbidden": [
-      "farinha",
-      "churrasco",
-      "bacon",
-      "crocante",
-      "acompanhamento"
-    ],
+    "forbidden": ["farinha", "churrasco", "bacon", "crocante", "acompanhamento"],
     "category": "comida",
     "difficulty": 1
   },
   {
     "id": "c-0021",
     "word": "Cuscuz",
-    "forbidden": [
-      "milho",
-      "nordeste",
-      "flocão",
-      "vapor",
-      "café da manhã"
-    ],
+    "forbidden": ["milho", "nordeste", "flocão", "vapor", "café da manhã"],
     "category": "comida",
     "difficulty": 2
   },
   {
     "id": "c-0022",
     "word": "Moqueca",
-    "forbidden": [
-      "peixe",
-      "capixaba",
-      "dendê",
-      "coco",
-      "panela de barro"
-    ],
+    "forbidden": ["peixe", "capixaba", "dendê", "coco", "panela de barro"],
     "category": "comida",
     "difficulty": 2
   },
   {
     "id": "c-0023",
     "word": "Acarajé",
-    "forbidden": [
-      "baiana",
-      "feijão fradinho",
-      "dendê",
-      "frito",
-      "Bahia"
-    ],
+    "forbidden": ["baiana", "feijão fradinho", "dendê", "frito", "Bahia"],
     "category": "comida",
     "difficulty": 2
   },
   {
     "id": "c-0024",
     "word": "Chocolate",
-    "forbidden": [
-      "cacau",
-      "doce",
-      "barra",
-      "marrom",
-      "Páscoa"
-    ],
+    "forbidden": ["cacau", "doce", "barra", "marrom", "Páscoa"],
     "category": "comida",
     "difficulty": 1
   },
   {
     "id": "c-0025",
     "word": "Pudim",
-    "forbidden": [
-      "leite condensado",
-      "caramelo",
-      "calda",
-      "sobremesa",
-      "flan"
-    ],
+    "forbidden": ["leite condensado", "caramelo", "calda", "sobremesa", "flan"],
     "category": "comida",
     "difficulty": 1
   },
   {
     "id": "c-0026",
     "word": "Café",
-    "forbidden": [
-      "energia",
-      "xícara",
-      "coador",
-      "acordar",
-      "bebida"
-    ],
+    "forbidden": ["energia", "xícara", "coador", "acordar", "bebida"],
     "category": "comida",
     "difficulty": 1
   },
   {
     "id": "c-0027",
     "word": "Suco",
-    "forbidden": [
-      "fruta",
-      "copo",
-      "laranja",
-      "natural",
-      "gelado"
-    ],
+    "forbidden": ["fruta", "copo", "laranja", "natural", "gelado"],
     "category": "comida",
     "difficulty": 1
   },
   {
     "id": "c-0028",
     "word": "Refrigerante",
-    "forbidden": [
-      "gás",
-      "lata",
-      "bolhas",
-      "garrafa",
-      "doce"
-    ],
+    "forbidden": ["gás", "lata", "bolhas", "garrafa", "doce"],
     "category": "comida",
     "difficulty": 1
   },
   {
     "id": "c-0029",
     "word": "Cerveja",
-    "forbidden": [
-      "gelada",
-      "bar",
-      "espuma",
-      "lata",
-      "álcool"
-    ],
+    "forbidden": ["gelada", "bar", "espuma", "lata", "álcool"],
     "category": "comida",
     "difficulty": 1
   },
   {
     "id": "c-0030",
     "word": "Caipirinha",
-    "forbidden": [
-      "limão",
-      "cachaça",
-      "gelo",
-      "drink",
-      "açúcar"
-    ],
+    "forbidden": ["limão", "cachaça", "gelo", "drink", "açúcar"],
     "category": "comida",
     "difficulty": 2
   },
   {
     "id": "c-0031",
     "word": "Água de coco",
-    "forbidden": [
-      "palmeira",
-      "praia",
-      "verde",
-      "canudo",
-      "gelada"
-    ],
+    "forbidden": ["palmeira", "praia", "verde", "canudo", "gelada"],
     "category": "comida",
     "difficulty": 1
   },
   {
     "id": "c-0032",
     "word": "Leite",
-    "forbidden": [
-      "vaca",
-      "caixinha",
-      "branco",
-      "copo",
-      "cereal"
-    ],
+    "forbidden": ["vaca", "caixinha", "branco", "copo", "cereal"],
     "category": "comida",
     "difficulty": 1
   },
   {
     "id": "c-0033",
     "word": "Queijo",
-    "forbidden": [
-      "leite",
-      "fatia",
-      "rato",
-      "mussarela",
-      "ralado"
-    ],
+    "forbidden": ["leite", "fatia", "rato", "mussarela", "ralado"],
     "category": "comida",
     "difficulty": 1
   },
   {
     "id": "c-0034",
     "word": "Presunto",
-    "forbidden": [
-      "fatia",
-      "porco",
-      "sanduíche",
-      "frios",
-      "rosa"
-    ],
+    "forbidden": ["fatia", "porco", "sanduíche", "frios", "rosa"],
     "category": "comida",
     "difficulty": 1
   },
   {
     "id": "c-0035",
     "word": "Ovo",
-    "forbidden": [
-      "galinha",
-      "casca",
-      "gema",
-      "clara",
-      "frito"
-    ],
+    "forbidden": ["galinha", "casca", "gema", "clara", "frito"],
     "category": "comida",
     "difficulty": 1
   },
   {
     "id": "c-0036",
     "word": "Arroz",
-    "forbidden": [
-      "feijão",
-      "grão",
-      "panela",
-      "branco",
-      "prato"
-    ],
+    "forbidden": ["feijão", "grão", "panela", "branco", "prato"],
     "category": "comida",
     "difficulty": 1
   },
   {
     "id": "c-0037",
     "word": "Batata frita",
-    "forbidden": [
-      "palito",
-      "óleo",
-      "sal",
-      "fast food",
-      "crocante"
-    ],
+    "forbidden": ["palito", "óleo", "sal", "fast food", "crocante"],
     "category": "comida",
     "difficulty": 1
   },
   {
     "id": "c-0038",
     "word": "Mel",
-    "forbidden": [
-      "abelha",
-      "doce",
-      "favo",
-      "dourado",
-      "colmeia"
-    ],
+    "forbidden": ["abelha", "doce", "favo", "dourado", "colmeia"],
     "category": "comida",
     "difficulty": 1
   },
   {
     "id": "c-0039",
     "word": "Banana",
-    "forbidden": [
-      "macaco",
-      "amarela",
-      "casca",
-      "fruta",
-      "cacho"
-    ],
+    "forbidden": ["macaco", "amarela", "casca", "fruta", "cacho"],
     "category": "comida",
     "difficulty": 1
   },
   {
     "id": "c-0040",
     "word": "Melancia",
-    "forbidden": [
-      "verde",
-      "sementes",
-      "fatia",
-      "vermelha",
-      "verão"
-    ],
+    "forbidden": ["verde", "sementes", "fatia", "vermelha", "verão"],
     "category": "comida",
     "difficulty": 1
   },
   {
     "id": "c-0041",
     "word": "Abacaxi",
-    "forbidden": [
-      "coroa",
-      "espinhos",
-      "tropical",
-      "amarelo",
-      "fruta"
-    ],
+    "forbidden": ["coroa", "espinhos", "tropical", "amarelo", "fruta"],
     "category": "comida",
     "difficulty": 2
   },
   {
     "id": "c-0042",
     "word": "Morango",
-    "forbidden": [
-      "vermelho",
-      "fruta",
-      "sementes",
-      "creme",
-      "bolo"
-    ],
+    "forbidden": ["vermelho", "fruta", "sementes", "creme", "bolo"],
     "category": "comida",
     "difficulty": 1
   },
   {
     "id": "c-0043",
     "word": "Limão",
-    "forbidden": [
-      "azedo",
-      "verde",
-      "suco",
-      "espremer",
-      "caipirinha"
-    ],
+    "forbidden": ["azedo", "verde", "suco", "espremer", "caipirinha"],
     "category": "comida",
     "difficulty": 1
   },
   {
     "id": "c-0044",
     "word": "Sanduíche",
-    "forbidden": [
-      "pão",
-      "recheio",
-      "lanche",
-      "fatia",
-      "natural"
-    ],
+    "forbidden": ["pão", "recheio", "lanche", "fatia", "natural"],
     "category": "comida",
     "difficulty": 1
   },
   {
     "id": "c-0045",
     "word": "Esfirra",
-    "forbidden": [
-      "árabe",
-      "massa",
-      "carne",
-      "fechada",
-      "forno"
-    ],
+    "forbidden": ["árabe", "massa", "carne", "fechada", "forno"],
     "category": "comida",
     "difficulty": 2
   },
   {
     "id": "c-0046",
     "word": "Churros",
-    "forbidden": [
-      "doce de leite",
-      "canudo",
-      "açúcar",
-      "canela",
-      "feira"
-    ],
+    "forbidden": ["doce de leite", "canudo", "açúcar", "canela", "feira"],
     "category": "comida",
     "difficulty": 1
   },
   {
     "id": "c-0047",
     "word": "Paçoca",
-    "forbidden": [
-      "amendoim",
-      "farelo",
-      "doce",
-      "junina",
-      "esfarela"
-    ],
+    "forbidden": ["amendoim", "farelo", "doce", "junina", "esfarela"],
     "category": "comida",
     "difficulty": 2
   },
   {
     "id": "c-0048",
     "word": "Praia",
-    "forbidden": [
-      "onda",
-      "litoral",
-      "biquíni",
-      "maré",
-      "banho"
-    ],
+    "forbidden": ["onda", "litoral", "biquíni", "maré", "banho"],
     "category": "lugares",
     "difficulty": 1
   },
   {
     "id": "c-0049",
     "word": "Escola",
-    "forbidden": [
-      "aluno",
-      "professor",
-      "aula",
-      "sala",
-      "caderno"
-    ],
+    "forbidden": ["aluno", "professor", "aula", "sala", "caderno"],
     "category": "lugares",
     "difficulty": 1
   },
   {
     "id": "c-0050",
     "word": "Hospital",
-    "forbidden": [
-      "médico",
-      "doente",
-      "enfermeira",
-      "UTI",
-      "cirurgia"
-    ],
+    "forbidden": ["médico", "doente", "enfermeira", "UTI", "cirurgia"],
     "category": "lugares",
     "difficulty": 1
   },
   {
     "id": "c-0051",
     "word": "Aeroporto",
-    "forbidden": [
-      "avião",
-      "voo",
-      "embarque",
-      "mala",
-      "passagem"
-    ],
+    "forbidden": ["avião", "voo", "embarque", "mala", "passagem"],
     "category": "lugares",
     "difficulty": 1
   },
   {
     "id": "c-0052",
     "word": "Shopping",
-    "forbidden": [
-      "compras",
-      "loja",
-      "praça de alimentação",
-      "escada rolante",
-      "estacionamento"
-    ],
+    "forbidden": ["compras", "loja", "praça de alimentação", "escada rolante", "estacionamento"],
     "category": "lugares",
     "difficulty": 1
   },
   {
     "id": "c-0053",
     "word": "Cinema",
-    "forbidden": [
-      "filme",
-      "pipoca",
-      "sala",
-      "ingresso",
-      "tela"
-    ],
+    "forbidden": ["filme", "pipoca", "sala", "ingresso", "tela"],
     "category": "lugares",
     "difficulty": 1
   },
   {
     "id": "c-0054",
     "word": "Igreja",
-    "forbidden": [
-      "padre",
-      "missa",
-      "reza",
-      "altar",
-      "fiéis"
-    ],
+    "forbidden": ["padre", "missa", "reza", "altar", "fiéis"],
     "category": "lugares",
     "difficulty": 1
   },
   {
     "id": "c-0055",
     "word": "Mercado",
-    "forbidden": [
-      "compras",
-      "carrinho",
-      "caixa",
-      "corredor",
-      "feira"
-    ],
+    "forbidden": ["compras", "carrinho", "caixa", "corredor", "feira"],
     "category": "lugares",
     "difficulty": 1
   },
   {
     "id": "c-0056",
     "word": "Padaria",
-    "forbidden": [
-      "pão",
-      "francês",
-      "balcão",
-      "manhã",
-      "forno"
-    ],
+    "forbidden": ["pão", "francês", "balcão", "manhã", "forno"],
     "category": "lugares",
     "difficulty": 1
   },
   {
     "id": "c-0057",
     "word": "Biblioteca",
-    "forbidden": [
-      "livros",
-      "silêncio",
-      "estante",
-      "empréstimo",
-      "leitura"
-    ],
+    "forbidden": ["livros", "silêncio", "estante", "empréstimo", "leitura"],
     "category": "lugares",
     "difficulty": 1
   },
   {
     "id": "c-0058",
     "word": "Zoológico",
-    "forbidden": [
-      "animais",
-      "jaula",
-      "leão",
-      "visita",
-      "macaco"
-    ],
+    "forbidden": ["animais", "jaula", "leão", "visita", "macaco"],
     "category": "lugares",
     "difficulty": 1
   },
   {
     "id": "c-0059",
     "word": "Estádio",
-    "forbidden": [
-      "torcida",
-      "jogo",
-      "gol",
-      "arquibancada",
-      "futebol"
-    ],
+    "forbidden": ["torcida", "jogo", "gol", "arquibancada", "futebol"],
     "category": "lugares",
     "difficulty": 1
   },
   {
     "id": "c-0060",
     "word": "Museu",
-    "forbidden": [
-      "arte",
-      "quadro",
-      "exposição",
-      "visita",
-      "história"
-    ],
+    "forbidden": ["arte", "quadro", "exposição", "visita", "história"],
     "category": "lugares",
     "difficulty": 1
   },
   {
     "id": "c-0061",
     "word": "Banheiro",
-    "forbidden": [
-      "privada",
-      "chuveiro",
-      "pia",
-      "descarga",
-      "toalha"
-    ],
+    "forbidden": ["privada", "chuveiro", "pia", "descarga", "toalha"],
     "category": "lugares",
     "difficulty": 1
   },
   {
     "id": "c-0062",
     "word": "Cozinha",
-    "forbidden": [
-      "fogão",
-      "geladeira",
-      "panela",
-      "comida",
-      "pia"
-    ],
+    "forbidden": ["fogão", "geladeira", "panela", "comida", "pia"],
     "category": "lugares",
     "difficulty": 1
   },
   {
     "id": "c-0063",
     "word": "Quarto",
-    "forbidden": [
-      "cama",
-      "dormir",
-      "guarda-roupa",
-      "travesseiro",
-      "casa"
-    ],
+    "forbidden": ["cama", "dormir", "guarda-roupa", "travesseiro", "casa"],
     "category": "lugares",
     "difficulty": 1
   },
   {
     "id": "c-0064",
     "word": "Garagem",
-    "forbidden": [
-      "carro",
-      "portão",
-      "estacionar",
-      "casa",
-      "coberta"
-    ],
+    "forbidden": ["carro", "portão", "estacionar", "casa", "coberta"],
     "category": "lugares",
     "difficulty": 1
   },
   {
     "id": "c-0065",
     "word": "Elevador",
-    "forbidden": [
-      "andar",
-      "botão",
-      "subir",
-      "prédio",
-      "porta"
-    ],
+    "forbidden": ["andar", "botão", "subir", "prédio", "porta"],
     "category": "lugares",
     "difficulty": 1
   },
   {
     "id": "c-0066",
     "word": "Rodoviária",
-    "forbidden": [
-      "ônibus",
-      "viagem",
-      "plataforma",
-      "passagem",
-      "terminal"
-    ],
+    "forbidden": ["ônibus", "viagem", "plataforma", "passagem", "terminal"],
     "category": "lugares",
     "difficulty": 1
   },
   {
     "id": "c-0067",
     "word": "Hotel",
-    "forbidden": [
-      "hospedagem",
-      "quarto",
-      "diária",
-      "recepção",
-      "viagem"
-    ],
+    "forbidden": ["hospedagem", "quarto", "diária", "recepção", "viagem"],
     "category": "lugares",
     "difficulty": 1
   },
   {
     "id": "c-0068",
     "word": "Parque",
-    "forbidden": [
-      "árvores",
-      "passeio",
-      "banco",
-      "gramado",
-      "crianças"
-    ],
+    "forbidden": ["árvores", "passeio", "banco", "gramado", "crianças"],
     "category": "lugares",
     "difficulty": 1
   },
   {
     "id": "c-0069",
     "word": "Floresta",
-    "forbidden": [
-      "árvores",
-      "mata",
-      "selva",
-      "bichos",
-      "verde"
-    ],
+    "forbidden": ["árvores", "mata", "selva", "bichos", "verde"],
     "category": "lugares",
     "difficulty": 1
   },
   {
     "id": "c-0070",
     "word": "Deserto",
-    "forbidden": [
-      "areia",
-      "calor",
-      "camelo",
-      "seco",
-      "oásis"
-    ],
+    "forbidden": ["areia", "calor", "camelo", "seco", "oásis"],
     "category": "lugares",
     "difficulty": 1
   },
   {
     "id": "c-0071",
     "word": "Montanha",
-    "forbidden": [
-      "alta",
-      "escalar",
-      "pico",
-      "neve",
-      "subida"
-    ],
+    "forbidden": ["alta", "escalar", "pico", "neve", "subida"],
     "category": "lugares",
     "difficulty": 1
   },
   {
     "id": "c-0072",
     "word": "Ilha",
-    "forbidden": [
-      "mar",
-      "cercada",
-      "náufrago",
-      "barco",
-      "isolada"
-    ],
+    "forbidden": ["mar", "cercada", "náufrago", "barco", "isolada"],
     "category": "lugares",
     "difficulty": 1
   },
   {
     "id": "c-0073",
     "word": "Cachoeira",
-    "forbidden": [
-      "queda",
-      "água",
-      "rio",
-      "pedras",
-      "trilha"
-    ],
+    "forbidden": ["queda", "água", "rio", "pedras", "trilha"],
     "category": "lugares",
     "difficulty": 1
   },
   {
     "id": "c-0074",
     "word": "Fazenda",
-    "forbidden": [
-      "roça",
-      "gado",
-      "cavalo",
-      "sítio",
-      "campo"
-    ],
+    "forbidden": ["roça", "gado", "cavalo", "sítio", "campo"],
     "category": "lugares",
     "difficulty": 1
   },
   {
     "id": "c-0075",
     "word": "Cemitério",
-    "forbidden": [
-      "túmulo",
-      "morto",
-      "cruz",
-      "sepultura",
-      "flores"
-    ],
+    "forbidden": ["túmulo", "morto", "cruz", "sepultura", "flores"],
     "category": "lugares",
     "difficulty": 2
   },
   {
     "id": "c-0076",
     "word": "Delegacia",
-    "forbidden": [
-      "polícia",
-      "preso",
-      "boletim",
-      "investigação",
-      "crime"
-    ],
+    "forbidden": ["polícia", "preso", "boletim", "investigação", "crime"],
     "category": "lugares",
     "difficulty": 2
   },
   {
     "id": "c-0077",
     "word": "Tribunal",
-    "forbidden": [
-      "juiz",
-      "julgamento",
-      "advogado",
-      "sentença",
-      "réu"
-    ],
+    "forbidden": ["juiz", "julgamento", "advogado", "sentença", "réu"],
     "category": "lugares",
     "difficulty": 2
   },
   {
     "id": "c-0078",
     "word": "Banco",
-    "forbidden": [
-      "dinheiro",
-      "agência",
-      "caixa",
-      "gerente",
-      "conta"
-    ],
+    "forbidden": ["dinheiro", "agência", "caixa", "gerente", "conta"],
     "category": "lugares",
     "difficulty": 1
   },
   {
     "id": "c-0079",
     "word": "Farmácia",
-    "forbidden": [
-      "remédio",
-      "balconista",
-      "receita",
-      "drogaria",
-      "comprimido"
-    ],
+    "forbidden": ["remédio", "balconista", "receita", "drogaria", "comprimido"],
     "category": "lugares",
     "difficulty": 1
   },
   {
     "id": "c-0080",
     "word": "Academia",
-    "forbidden": [
-      "treino",
-      "musculação",
-      "peso",
-      "esteira",
-      "suor"
-    ],
+    "forbidden": ["treino", "musculação", "peso", "esteira", "suor"],
     "category": "lugares",
     "difficulty": 1
   },
   {
     "id": "c-0081",
     "word": "Piscina",
-    "forbidden": [
-      "nadar",
-      "água",
-      "mergulho",
-      "cloro",
-      "borda"
-    ],
+    "forbidden": ["nadar", "água", "mergulho", "cloro", "borda"],
     "category": "lugares",
     "difficulty": 1
   },
   {
     "id": "c-0082",
     "word": "Circo",
-    "forbidden": [
-      "palhaço",
-      "lona",
-      "trapézio",
-      "mágico",
-      "malabarismo"
-    ],
+    "forbidden": ["palhaço", "lona", "trapézio", "mágico", "malabarismo"],
     "category": "lugares",
     "difficulty": 1
   },
   {
     "id": "c-0083",
     "word": "Parque de diversões",
-    "forbidden": [
-      "montanha-russa",
-      "roda-gigante",
-      "brinquedo",
-      "ingresso",
-      "algodão-doce"
-    ],
+    "forbidden": ["montanha-russa", "roda-gigante", "brinquedo", "ingresso", "algodão-doce"],
     "category": "lugares",
     "difficulty": 1
   },
   {
     "id": "c-0084",
     "word": "Barbearia",
-    "forbidden": [
-      "corte",
-      "navalha",
-      "barba",
-      "cadeira",
-      "cabelo"
-    ],
+    "forbidden": ["corte", "navalha", "tesoura", "cadeira", "cabelo"],
     "category": "lugares",
     "difficulty": 2
   },
   {
     "id": "c-0085",
     "word": "Salão de beleza",
-    "forbidden": [
-      "cabelo",
-      "unha",
-      "cabeleireira",
-      "tintura",
-      "escova"
-    ],
+    "forbidden": ["cabelo", "unha", "cabeleireira", "tintura", "escova"],
     "category": "lugares",
     "difficulty": 2
   },
   {
     "id": "c-0086",
     "word": "Lavanderia",
-    "forbidden": [
-      "roupa",
-      "máquina",
-      "sabão",
-      "secar",
-      "lavar"
-    ],
+    "forbidden": ["roupa", "máquina", "sabão", "secar", "tintureiro"],
     "category": "lugares",
     "difficulty": 2
   },
   {
     "id": "c-0087",
     "word": "Oficina",
-    "forbidden": [
-      "mecânico",
-      "carro",
-      "conserto",
-      "ferramenta",
-      "pneu"
-    ],
+    "forbidden": ["mecânico", "carro", "conserto", "ferramenta", "pneu"],
     "category": "lugares",
     "difficulty": 2
   },
   {
     "id": "c-0088",
     "word": "Posto de gasolina",
-    "forbidden": [
-      "combustível",
-      "bomba",
-      "carro",
-      "frentista",
-      "tanque"
-    ],
+    "forbidden": ["combustível", "bomba", "carro", "frentista", "tanque"],
     "category": "lugares",
     "difficulty": 1
   },
   {
     "id": "c-0089",
     "word": "Amazônia",
-    "forbidden": [
-      "rio",
-      "floresta",
-      "Norte",
-      "selva",
-      "Manaus"
-    ],
+    "forbidden": ["rio", "floresta", "Norte", "selva", "Manaus"],
     "category": "lugares",
     "difficulty": 2
   },
   {
     "id": "c-0090",
     "word": "Cristo Redentor",
-    "forbidden": [
-      "Rio",
-      "braços abertos",
-      "Corcovado",
-      "estátua",
-      "morro"
-    ],
+    "forbidden": ["Rio", "braços abertos", "Corcovado", "estátua", "morro"],
     "category": "lugares",
     "difficulty": 2
   },
   {
     "id": "c-0091",
     "word": "Paris",
-    "forbidden": [
-      "França",
-      "Torre Eiffel",
-      "capital",
-      "romântica",
-      "Europa"
-    ],
+    "forbidden": ["França", "Torre Eiffel", "capital", "romântica", "Europa"],
     "category": "lugares",
     "difficulty": 2
   },
   {
     "id": "c-0092",
     "word": "Nova York",
-    "forbidden": [
-      "Estados Unidos",
-      "Estátua da Liberdade",
-      "arranha-céus",
-      "Manhattan",
-      "cidade"
-    ],
+    "forbidden": ["Estados Unidos", "Estátua da Liberdade", "arranha-céus", "Manhattan", "cidade"],
     "category": "lugares",
     "difficulty": 2
   },
   {
     "id": "c-0093",
     "word": "Guarda-chuva",
-    "forbidden": [
-      "temporal",
-      "molhar",
-      "abrir",
-      "cabo",
-      "proteger"
-    ],
+    "forbidden": ["temporal", "molhar", "abrir", "cabo", "proteger"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0094",
     "word": "Óculos",
-    "forbidden": [
-      "lentes",
-      "grau",
-      "enxergar",
-      "rosto",
-      "sol"
-    ],
+    "forbidden": ["lentes", "grau", "enxergar", "rosto", "sol"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0095",
     "word": "Chave",
-    "forbidden": [
-      "porta",
-      "abrir",
-      "tranca",
-      "fechadura",
-      "molho"
-    ],
+    "forbidden": ["porta", "abrir", "tranca", "fechadura", "molho"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0096",
     "word": "Relógio",
-    "forbidden": [
-      "horas",
-      "pulso",
-      "ponteiro",
-      "tempo",
-      "alarme"
-    ],
+    "forbidden": ["horas", "pulso", "ponteiro", "tempo", "alarme"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0097",
     "word": "Mochila",
-    "forbidden": [
-      "escola",
-      "costas",
-      "alça",
-      "zíper",
-      "livros"
-    ],
+    "forbidden": ["escola", "costas", "alça", "zíper", "livros"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0098",
     "word": "Travesseiro",
-    "forbidden": [
-      "cama",
-      "cabeça",
-      "dormir",
-      "fronha",
-      "macio"
-    ],
+    "forbidden": ["cama", "cabeça", "dormir", "fronha", "macio"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0099",
     "word": "Cadeira",
-    "forbidden": [
-      "sentar",
-      "mesa",
-      "pernas",
-      "encosto",
-      "assento"
-    ],
+    "forbidden": ["sentar", "mesa", "pernas", "encosto", "assento"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0100",
     "word": "Mesa",
-    "forbidden": [
-      "jantar",
-      "cadeira",
-      "toalha",
-      "refeição",
-      "madeira"
-    ],
+    "forbidden": ["jantar", "cadeira", "toalha", "refeição", "madeira"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0101",
     "word": "Sofá",
-    "forbidden": [
-      "sala",
-      "sentar",
-      "TV",
-      "almofada",
-      "assistir"
-    ],
+    "forbidden": ["sala", "sentar", "TV", "almofada", "assistir"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0102",
     "word": "Televisão",
-    "forbidden": [
-      "controle",
-      "canal",
-      "tela",
-      "novela",
-      "assistir"
-    ],
+    "forbidden": ["controle", "canal", "tela", "novela", "assistir"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0103",
     "word": "Geladeira",
-    "forbidden": [
-      "gelo",
-      "comida",
-      "porta",
-      "cozinha",
-      "freezer"
-    ],
+    "forbidden": ["gelo", "comida", "porta", "cozinha", "freezer"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0104",
     "word": "Fogão",
-    "forbidden": [
-      "cozinha",
-      "boca",
-      "panela",
-      "gás",
-      "chama"
-    ],
+    "forbidden": ["cozinha", "boca", "panela", "gás", "chama"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0105",
     "word": "Micro-ondas",
-    "forbidden": [
-      "esquentar",
-      "prato",
-      "botão",
-      "pipoca",
-      "minutos"
-    ],
+    "forbidden": ["esquentar", "prato", "botão", "pipoca", "minutos"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0106",
     "word": "Liquidificador",
-    "forbidden": [
-      "bater",
-      "suco",
-      "copo",
-      "lâminas",
-      "vitamina"
-    ],
+    "forbidden": ["bater", "suco", "copo", "lâminas", "vitamina"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0107",
     "word": "Ventilador",
-    "forbidden": [
-      "vento",
-      "hélice",
-      "calor",
-      "ligar",
-      "pás"
-    ],
+    "forbidden": ["ar", "hélice", "calor", "ligar", "pás"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0108",
     "word": "Ar-condicionado",
-    "forbidden": [
-      "gelado",
-      "frio",
-      "controle",
-      "parede",
-      "verão"
-    ],
+    "forbidden": ["gelado", "frio", "controle", "parede", "verão"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0109",
     "word": "Escova de dentes",
-    "forbidden": [
-      "pasta",
-      "boca",
-      "cerdas",
-      "banheiro",
-      "dentista"
-    ],
+    "forbidden": ["pasta", "boca", "cerdas", "banheiro", "cabo"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0110",
     "word": "Shampoo",
-    "forbidden": [
-      "cabelo",
-      "banho",
-      "espuma",
-      "condicionador",
-      "frasco"
-    ],
+    "forbidden": ["cabelo", "banho", "espuma", "condicionador", "frasco"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0111",
     "word": "Toalha",
-    "forbidden": [
-      "banho",
-      "secar",
-      "molhado",
-      "enxugar",
-      "pano"
-    ],
+    "forbidden": ["banho", "secar", "molhado", "enxugar", "pano"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0112",
     "word": "Espelho",
-    "forbidden": [
-      "reflexo",
-      "rosto",
-      "imagem",
-      "banheiro",
-      "vidro"
-    ],
+    "forbidden": ["reflexo", "rosto", "imagem", "banheiro", "vidro"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0113",
     "word": "Vassoura",
-    "forbidden": [
-      "varrer",
-      "chão",
-      "cabo",
-      "lixo",
-      "bruxa"
-    ],
+    "forbidden": ["varrer", "chão", "cabo", "lixo", "bruxa"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0114",
     "word": "Martelo",
-    "forbidden": [
-      "prego",
-      "ferramenta",
-      "bater",
-      "madeira",
-      "cabo"
-    ],
+    "forbidden": ["prego", "ferramenta", "bater", "madeira", "cabo"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0115",
     "word": "Chave de fenda",
-    "forbidden": [
-      "parafuso",
-      "ferramenta",
-      "girar",
-      "apertar",
-      "cabo"
-    ],
+    "forbidden": ["parafuso", "ferramenta", "girar", "apertar", "cabo"],
     "category": "objetos",
     "difficulty": 2
   },
   {
     "id": "c-0116",
     "word": "Tesoura",
-    "forbidden": [
-      "cortar",
-      "papel",
-      "lâminas",
-      "dois",
-      "cabelo"
-    ],
+    "forbidden": ["cortar", "papel", "lâminas", "dois", "cabelo"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0117",
     "word": "Lápis",
-    "forbidden": [
-      "escrever",
-      "grafite",
-      "apontar",
-      "borracha",
-      "desenhar"
-    ],
+    "forbidden": ["escrever", "grafite", "apontar", "borracha", "desenhar"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0118",
     "word": "Caneta",
-    "forbidden": [
-      "escrever",
-      "tinta",
-      "azul",
-      "papel",
-      "esferográfica"
-    ],
+    "forbidden": ["escrever", "tinta", "azul", "papel", "esferográfica"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0119",
     "word": "Caderno",
-    "forbidden": [
-      "escola",
-      "páginas",
-      "anotar",
-      "espiral",
-      "capa"
-    ],
+    "forbidden": ["escola", "páginas", "anotar", "espiral", "capa"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0120",
     "word": "Livro",
-    "forbidden": [
-      "ler",
-      "páginas",
-      "capa",
-      "história",
-      "biblioteca"
-    ],
+    "forbidden": ["ler", "páginas", "capa", "história", "biblioteca"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0121",
     "word": "Mala",
-    "forbidden": [
-      "viagem",
-      "roupas",
-      "rodinhas",
-      "aeroporto",
-      "levar"
-    ],
+    "forbidden": ["viagem", "roupas", "rodinhas", "aeroporto", "levar"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0122",
     "word": "Carteira",
-    "forbidden": [
-      "dinheiro",
-      "documentos",
-      "bolso",
-      "cartão",
-      "couro"
-    ],
+    "forbidden": ["dinheiro", "documentos", "bolso", "bolsa", "couro"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0123",
     "word": "Anel",
-    "forbidden": [
-      "dedo",
-      "casamento",
-      "joia",
-      "aliança",
-      "ouro"
-    ],
+    "forbidden": ["dedo", "casamento", "joia", "aliança", "ouro"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0124",
     "word": "Colar",
-    "forbidden": [
-      "pescoço",
-      "joia",
-      "pingente",
-      "corrente",
-      "pérola"
-    ],
+    "forbidden": ["pescoço", "joia", "pingente", "corrente", "pérola"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0125",
     "word": "Chapéu",
-    "forbidden": [
-      "cabeça",
-      "aba",
-      "sol",
-      "palha",
-      "usar"
-    ],
+    "forbidden": ["cabeça", "aba", "sol", "palha", "usar"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0126",
     "word": "Sapato",
-    "forbidden": [
-      "pé",
-      "cadarço",
-      "sola",
-      "calçar",
-      "par"
-    ],
+    "forbidden": ["pé", "cadarço", "sola", "calçar", "par"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0127",
     "word": "Chinelo",
-    "forbidden": [
-      "pé",
-      "dedo",
-      "borracha",
-      "casa",
-      "havaiana"
-    ],
+    "forbidden": ["pé", "dedo", "borracha", "casa", "havaiana"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0128",
     "word": "Vestido",
-    "forbidden": [
-      "mulher",
-      "festa",
-      "saia",
-      "roupa",
-      "casamento"
-    ],
+    "forbidden": ["mulher", "festa", "saia", "roupa", "casamento"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0129",
     "word": "Bicicleta",
-    "forbidden": [
-      "pedal",
-      "rodas",
-      "guidão",
-      "pedalar",
-      "corrente"
-    ],
+    "forbidden": ["pedal", "rodas", "guidão", "pedalar", "corrente"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0130",
     "word": "Carro",
-    "forbidden": [
-      "rodas",
-      "dirigir",
-      "motor",
-      "volante",
-      "estrada"
-    ],
+    "forbidden": ["rodas", "dirigir", "motor", "volante", "estrada"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0131",
     "word": "Moto",
-    "forbidden": [
-      "capacete",
-      "duas rodas",
-      "garupa",
-      "pilotar",
-      "escapamento"
-    ],
+    "forbidden": ["capacete", "duas rodas", "garupa", "pilotar", "escapamento"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0132",
     "word": "Avião",
-    "forbidden": [
-      "voar",
-      "asas",
-      "céu",
-      "aeroporto",
-      "piloto"
-    ],
+    "forbidden": ["voar", "asas", "céu", "aeroporto", "piloto"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0133",
     "word": "Barco",
-    "forbidden": [
-      "água",
-      "remo",
-      "navegar",
-      "mar",
-      "vela"
-    ],
+    "forbidden": ["água", "remo", "navegar", "mar", "vela"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0134",
     "word": "Trem",
-    "forbidden": [
-      "trilhos",
-      "estação",
-      "vagão",
-      "apito",
-      "locomotiva"
-    ],
+    "forbidden": ["trilhos", "estação", "vagão", "apito", "locomotiva"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0135",
     "word": "Ônibus",
-    "forbidden": [
-      "ponto",
-      "passageiros",
-      "motorista",
-      "coletivo",
-      "roleta"
-    ],
+    "forbidden": ["ponto", "passageiros", "motorista", "coletivo", "roleta"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0136",
     "word": "Colher",
-    "forbidden": [
-      "sopa",
-      "comer",
-      "talher",
-      "garfo",
-      "concha"
-    ],
+    "forbidden": ["sopa", "comer", "talher", "garfo", "concha"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0137",
     "word": "Garfo",
-    "forbidden": [
-      "talher",
-      "comer",
-      "pontas",
-      "faca",
-      "prato"
-    ],
+    "forbidden": ["talher", "comer", "pontas", "faca", "prato"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0138",
     "word": "Faca",
-    "forbidden": [
-      "cortar",
-      "afiada",
-      "talher",
-      "lâmina",
-      "cozinha"
-    ],
+    "forbidden": ["cortar", "afiada", "talher", "lâmina", "cozinha"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0139",
     "word": "Panela",
-    "forbidden": [
-      "fogão",
-      "tampa",
-      "cozinhar",
-      "cabo",
-      "pressão"
-    ],
+    "forbidden": ["fogão", "tampa", "cozinhar", "cabo", "pressão"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0140",
     "word": "Copo",
-    "forbidden": [
-      "beber",
-      "vidro",
-      "água",
-      "líquido",
-      "americano"
-    ],
+    "forbidden": ["beber", "vidro", "água", "líquido", "americano"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0141",
     "word": "Vela",
-    "forbidden": [
-      "cera",
-      "chama",
-      "pavio",
-      "aniversário",
-      "acender"
-    ],
+    "forbidden": ["cera", "chama", "pavio", "aniversário", "acender"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0142",
     "word": "Bússola",
-    "forbidden": [
-      "norte",
-      "direção",
-      "agulha",
-      "orientar",
-      "mapa"
-    ],
+    "forbidden": ["norte", "direção", "agulha", "orientar", "mapa"],
     "category": "objetos",
     "difficulty": 2
   },
   {
     "id": "c-0143",
     "word": "Lanterna",
-    "forbidden": [
-      "luz",
-      "pilha",
-      "escuro",
-      "acender",
-      "feixe"
-    ],
+    "forbidden": ["luz", "pilha", "escuro", "acender", "feixe"],
     "category": "objetos",
     "difficulty": 1
   },
   {
     "id": "c-0144",
     "word": "Pilha",
-    "forbidden": [
-      "bateria",
-      "energia",
-      "controle",
-      "carga",
-      "polos"
-    ],
+    "forbidden": ["bateria", "energia", "controle", "carga", "polos"],
     "category": "objetos",
     "difficulty": 2
   },
   {
     "id": "c-0145",
     "word": "Cofre",
-    "forbidden": [
-      "dinheiro",
-      "segredo",
-      "senha",
-      "guardar",
-      "banco"
-    ],
+    "forbidden": ["dinheiro", "segredo", "senha", "guardar", "banco"],
     "category": "objetos",
     "difficulty": 2
   },
   {
     "id": "c-0146",
     "word": "Algemas",
-    "forbidden": [
-      "presos",
-      "polícia",
-      "pulsos",
-      "ferro",
-      "prender"
-    ],
+    "forbidden": ["presos", "polícia", "pulsos", "ferro", "prender"],
     "category": "objetos",
     "difficulty": 2
   },
   {
     "id": "c-0147",
     "word": "Balança",
-    "forbidden": [
-      "peso",
-      "pesar",
-      "quilos",
-      "justiça",
-      "prato"
-    ],
+    "forbidden": ["peso", "pesar", "quilos", "justiça", "prato"],
     "category": "objetos",
     "difficulty": 2
   },
   {
     "id": "c-0148",
     "word": "Rede",
-    "forbidden": [
-      "dormir",
-      "varanda",
-      "balançar",
-      "armar",
-      "nordeste"
-    ],
+    "forbidden": ["dormir", "varanda", "balançar", "armar", "nordeste"],
     "category": "objetos",
     "difficulty": 2
   },
   {
     "id": "c-0149",
     "word": "Médico",
-    "forbidden": [
-      "hospital",
-      "consulta",
-      "jaleco",
-      "doente",
-      "remédio"
-    ],
+    "forbidden": ["hospital", "consulta", "jaleco", "doente", "remédio"],
     "category": "profissoes",
     "difficulty": 1
   },
   {
     "id": "c-0150",
     "word": "Professor",
-    "forbidden": [
-      "escola",
-      "aula",
-      "aluno",
-      "quadro",
-      "ensinar"
-    ],
+    "forbidden": ["escola", "aula", "aluno", "quadro", "ensinar"],
     "category": "profissoes",
     "difficulty": 1
   },
   {
     "id": "c-0151",
     "word": "Policial",
-    "forbidden": [
-      "farda",
-      "prender",
-      "viatura",
-      "ladrão",
-      "arma"
-    ],
+    "forbidden": ["farda", "prender", "viatura", "ladrão", "arma"],
     "category": "profissoes",
     "difficulty": 1
   },
   {
     "id": "c-0152",
     "word": "Bombeiro",
-    "forbidden": [
-      "fogo",
-      "mangueira",
-      "resgate",
-      "caminhão",
-      "incêndio"
-    ],
+    "forbidden": ["fogo", "mangueira", "resgate", "caminhão", "incêndio"],
     "category": "profissoes",
     "difficulty": 1
   },
   {
     "id": "c-0153",
     "word": "Padeiro",
-    "forbidden": [
-      "pão",
-      "forno",
-      "farinha",
-      "madrugada",
-      "massa"
-    ],
+    "forbidden": ["pão", "forno", "farinha", "madrugada", "massa"],
     "category": "profissoes",
     "difficulty": 1
   },
   {
     "id": "c-0154",
     "word": "Cozinheiro",
-    "forbidden": [
-      "fogão",
-      "comida",
-      "panela",
-      "chef",
-      "restaurante"
-    ],
+    "forbidden": ["fogão", "comida", "panela", "chef", "restaurante"],
     "category": "profissoes",
     "difficulty": 1
   },
   {
     "id": "c-0155",
     "word": "Garçom",
-    "forbidden": [
-      "bandeja",
-      "restaurante",
-      "pedido",
-      "mesa",
-      "gorjeta"
-    ],
+    "forbidden": ["bandeja", "restaurante", "pedido", "mesa", "gorjeta"],
     "category": "profissoes",
     "difficulty": 1
   },
   {
     "id": "c-0156",
     "word": "Motorista",
-    "forbidden": [
-      "volante",
-      "dirigir",
-      "carro",
-      "ônibus",
-      "estrada"
-    ],
+    "forbidden": ["volante", "dirigir", "carro", "ônibus", "estrada"],
     "category": "profissoes",
     "difficulty": 1
   },
   {
     "id": "c-0157",
     "word": "Piloto",
-    "forbidden": [
-      "avião",
-      "cabine",
-      "voar",
-      "comandante",
-      "aeroporto"
-    ],
+    "forbidden": ["avião", "cabine", "voar", "comandante", "aeroporto"],
     "category": "profissoes",
     "difficulty": 1
   },
   {
     "id": "c-0158",
     "word": "Dentista",
-    "forbidden": [
-      "dentes",
-      "boca",
-      "consultório",
-      "broca",
-      "sorriso"
-    ],
+    "forbidden": ["cárie", "boca", "consultório", "broca", "sorriso"],
     "category": "profissoes",
     "difficulty": 1
   },
   {
     "id": "c-0159",
     "word": "Advogado",
-    "forbidden": [
-      "tribunal",
-      "lei",
-      "defender",
-      "cliente",
-      "processo"
-    ],
+    "forbidden": ["tribunal", "lei", "defender", "cliente", "processo"],
     "category": "profissoes",
     "difficulty": 1
   },
   {
     "id": "c-0160",
     "word": "Juiz",
-    "forbidden": [
-      "sentença",
-      "martelo",
-      "tribunal",
-      "julgar",
-      "toga"
-    ],
+    "forbidden": ["sentença", "martelo", "tribunal", "julgar", "toga"],
     "category": "profissoes",
     "difficulty": 1
   },
   {
     "id": "c-0161",
     "word": "Pedreiro",
-    "forbidden": [
-      "obra",
-      "tijolo",
-      "cimento",
-      "construção",
-      "parede"
-    ],
+    "forbidden": ["obra", "tijolo", "cimento", "construção", "parede"],
     "category": "profissoes",
     "difficulty": 1
   },
   {
     "id": "c-0162",
     "word": "Eletricista",
-    "forbidden": [
-      "fios",
-      "luz",
-      "choque",
-      "energia",
-      "tomada"
-    ],
+    "forbidden": ["fios", "luz", "choque", "energia", "tomada"],
     "category": "profissoes",
     "difficulty": 1
   },
   {
     "id": "c-0163",
     "word": "Encanador",
-    "forbidden": [
-      "cano",
-      "vazamento",
-      "água",
-      "torneira",
-      "conserto"
-    ],
+    "forbidden": ["cano", "vazamento", "água", "torneira", "conserto"],
     "category": "profissoes",
     "difficulty": 2
   },
   {
     "id": "c-0164",
     "word": "Jardineiro",
-    "forbidden": [
-      "plantas",
-      "grama",
-      "poda",
-      "podar",
-      "flores"
-    ],
+    "forbidden": ["plantas", "grama", "poda", "podar", "flores"],
     "category": "profissoes",
     "difficulty": 1
   },
   {
     "id": "c-0165",
     "word": "Cantor",
-    "forbidden": [
-      "música",
-      "microfone",
-      "voz",
-      "show",
-      "palco"
-    ],
+    "forbidden": ["música", "microfone", "voz", "show", "palco"],
     "category": "profissoes",
     "difficulty": 1
   },
   {
     "id": "c-0166",
     "word": "Ator",
-    "forbidden": [
-      "filme",
-      "novela",
-      "teatro",
-      "personagem",
-      "cena"
-    ],
+    "forbidden": ["filme", "novela", "teatro", "personagem", "cena"],
     "category": "profissoes",
     "difficulty": 1
   },
   {
     "id": "c-0167",
     "word": "Palhaço",
-    "forbidden": [
-      "circo",
-      "nariz vermelho",
-      "piada",
-      "riso",
-      "peruca"
-    ],
+    "forbidden": ["circo", "nariz vermelho", "piada", "riso", "peruca"],
     "category": "profissoes",
     "difficulty": 1
   },
   {
     "id": "c-0168",
     "word": "Mágico",
-    "forbidden": [
-      "truque",
-      "cartola",
-      "coelho",
-      "varinha",
-      "show"
-    ],
+    "forbidden": ["truque", "cartola", "coelho", "varinha", "show"],
     "category": "profissoes",
     "difficulty": 1
   },
   {
     "id": "c-0169",
     "word": "Fotógrafo",
-    "forbidden": [
-      "câmera",
-      "retrato",
-      "flash",
-      "imagem",
-      "álbum"
-    ],
+    "forbidden": ["câmera", "retrato", "flash", "imagem", "álbum"],
     "category": "profissoes",
     "difficulty": 1
   },
   {
     "id": "c-0170",
     "word": "Jornalista",
-    "forbidden": [
-      "notícia",
-      "repórter",
-      "matéria",
-      "mídia",
-      "entrevista"
-    ],
+    "forbidden": ["notícia", "repórter", "matéria", "mídia", "entrevista"],
     "category": "profissoes",
     "difficulty": 1
   },
   {
     "id": "c-0171",
     "word": "Cabeleireiro",
-    "forbidden": [
-      "penteado",
-      "corte",
-      "tesoura",
-      "salão",
-      "tintura"
-    ],
+    "forbidden": ["penteado", "corte", "tesoura", "salão", "tintura"],
     "category": "profissoes",
     "difficulty": 1
   },
   {
     "id": "c-0172",
     "word": "Veterinário",
-    "forbidden": [
-      "animais",
-      "cachorro",
-      "clínica",
-      "vacina",
-      "bicho"
-    ],
+    "forbidden": ["animais", "cachorro", "clínica", "vacina", "bicho"],
     "category": "profissoes",
     "difficulty": 1
   },
   {
     "id": "c-0173",
     "word": "Astronauta",
-    "forbidden": [
-      "espaço",
-      "foguete",
-      "lua",
-      "capacete",
-      "nave"
-    ],
+    "forbidden": ["espaço", "foguete", "lua", "capacete", "nave"],
     "category": "profissoes",
     "difficulty": 1
   },
   {
     "id": "c-0174",
     "word": "Detetive",
-    "forbidden": [
-      "investigar",
-      "pistas",
-      "crime",
-      "lupa",
-      "mistério"
-    ],
+    "forbidden": ["investigar", "pistas", "crime", "lupa", "mistério"],
     "category": "profissoes",
     "difficulty": 1
   },
   {
     "id": "c-0175",
     "word": "Ladrão",
-    "forbidden": [
-      "roubar",
-      "polícia",
-      "crime",
-      "assalto",
-      "preso"
-    ],
+    "forbidden": ["roubar", "polícia", "crime", "assalto", "preso"],
     "category": "profissoes",
     "difficulty": 1
   },
   {
     "id": "c-0176",
     "word": "Cientista",
-    "forbidden": [
-      "laboratório",
-      "pesquisa",
-      "experimento",
-      "jaleco",
-      "descoberta"
-    ],
+    "forbidden": ["laboratório", "pesquisa", "experimento", "jaleco", "descoberta"],
     "category": "profissoes",
     "difficulty": 2
   },
   {
     "id": "c-0177",
     "word": "Arquiteto",
-    "forbidden": [
-      "projeto",
-      "casa",
-      "planta",
-      "construção",
-      "prédio"
-    ],
+    "forbidden": ["projeto", "casa", "planta", "construção", "prédio"],
     "category": "profissoes",
     "difficulty": 2
   },
   {
     "id": "c-0178",
     "word": "Engenheiro",
-    "forbidden": [
-      "obra",
-      "cálculo",
-      "projeto",
-      "construção",
-      "capacete"
-    ],
+    "forbidden": ["obra", "cálculo", "projeto", "construção", "capacete"],
     "category": "profissoes",
     "difficulty": 2
   },
   {
     "id": "c-0179",
     "word": "Programador",
-    "forbidden": [
-      "computador",
-      "código",
-      "software",
-      "sistema",
-      "tela"
-    ],
+    "forbidden": ["computador", "código", "software", "sistema", "tela"],
     "category": "profissoes",
     "difficulty": 2
   },
   {
     "id": "c-0180",
     "word": "Carteiro",
-    "forbidden": [
-      "cartas",
-      "correios",
-      "entregar",
-      "envelope",
-      "bicicleta"
-    ],
+    "forbidden": ["moto", "correios", "entregar", "envelope", "bicicleta"],
     "category": "profissoes",
     "difficulty": 1
   },
   {
     "id": "c-0181",
     "word": "Faxineira",
-    "forbidden": [
-      "limpar",
-      "vassoura",
-      "casa",
-      "pano",
-      "sujeira"
-    ],
+    "forbidden": ["limpar", "vassoura", "casa", "pano", "sujeira"],
     "category": "profissoes",
     "difficulty": 2
   },
   {
     "id": "c-0182",
     "word": "Dançarino",
-    "forbidden": [
-      "balé",
-      "ritmo",
-      "palco",
-      "passos",
-      "coreografia"
-    ],
+    "forbidden": ["balé", "ritmo", "palco", "passos", "coreografia"],
     "category": "profissoes",
     "difficulty": 2
   },
   {
     "id": "c-0183",
     "word": "Pescador",
-    "forbidden": [
-      "peixe",
-      "vara",
-      "rede",
-      "barco",
-      "anzol"
-    ],
+    "forbidden": ["peixe", "vara", "rede", "barco", "anzol"],
     "category": "profissoes",
     "difficulty": 1
   },
   {
     "id": "c-0184",
     "word": "Agricultor",
-    "forbidden": [
-      "plantar",
-      "roça",
-      "colheita",
-      "terra",
-      "trator"
-    ],
+    "forbidden": ["plantar", "roça", "colheita", "terra", "trator"],
     "category": "profissoes",
     "difficulty": 2
   },
   {
     "id": "c-0185",
     "word": "Açougueiro",
-    "forbidden": [
-      "carne",
-      "faca",
-      "balcão",
-      "boi",
-      "corte"
-    ],
+    "forbidden": ["carne", "faca", "balcão", "boi", "corte"],
     "category": "profissoes",
     "difficulty": 2
   },
   {
     "id": "c-0186",
     "word": "Mecânico",
-    "forbidden": [
-      "carro",
-      "oficina",
-      "motor",
-      "conserto",
-      "chave"
-    ],
+    "forbidden": ["carro", "oficina", "motor", "conserto", "chave"],
     "category": "profissoes",
     "difficulty": 1
   },
   {
     "id": "c-0187",
     "word": "Cachorro",
-    "forbidden": [
-      "latir",
-      "fiel",
-      "coleira",
-      "osso",
-      "pet"
-    ],
+    "forbidden": ["latir", "fiel", "coleira", "osso", "pet"],
     "category": "animais",
     "difficulty": 1
   },
   {
     "id": "c-0188",
     "word": "Gato",
-    "forbidden": [
-      "miar",
-      "bigode",
-      "felino",
-      "ronronar",
-      "pet"
-    ],
+    "forbidden": ["miar", "bigode", "felino", "ronronar", "pet"],
     "category": "animais",
     "difficulty": 1
   },
   {
     "id": "c-0189",
     "word": "Cavalo",
-    "forbidden": [
-      "galopar",
-      "sela",
-      "crina",
-      "fazenda",
-      "montar"
-    ],
+    "forbidden": ["galopar", "sela", "crina", "fazenda", "montar"],
     "category": "animais",
     "difficulty": 1
   },
   {
     "id": "c-0190",
     "word": "Vaca",
-    "forbidden": [
-      "leite",
-      "boi",
-      "fazenda",
-      "muu",
-      "pasto"
-    ],
+    "forbidden": ["leite", "boi", "fazenda", "muu", "pasto"],
     "category": "animais",
     "difficulty": 1
   },
   {
     "id": "c-0191",
     "word": "Porco",
-    "forbidden": [
-      "chiqueiro",
-      "lama",
-      "rosa",
-      "oinc",
-      "bacon"
-    ],
+    "forbidden": ["chiqueiro", "lama", "rosa", "oinc", "bacon"],
     "category": "animais",
     "difficulty": 1
   },
   {
     "id": "c-0192",
     "word": "Galinha",
-    "forbidden": [
-      "ovo",
-      "penas",
-      "bico",
-      "poleiro",
-      "cacarejar"
-    ],
+    "forbidden": ["ovo", "penas", "bico", "poleiro", "cacarejar"],
     "category": "animais",
     "difficulty": 1
   },
   {
     "id": "c-0193",
     "word": "Pato",
-    "forbidden": [
-      "lagoa",
-      "bico",
-      "penas",
-      "nadar",
-      "asas"
-    ],
+    "forbidden": ["lagoa", "bico", "penas", "nadar", "asas"],
     "category": "animais",
     "difficulty": 1
   },
   {
     "id": "c-0194",
     "word": "Leão",
-    "forbidden": [
-      "rei",
-      "juba",
-      "selva",
-      "rugir",
-      "felino"
-    ],
+    "forbidden": ["rei", "juba", "selva", "rugir", "felino"],
     "category": "animais",
     "difficulty": 1
   },
   {
     "id": "c-0195",
     "word": "Tigre",
-    "forbidden": [
-      "listras",
-      "felino",
-      "selva",
-      "rugir",
-      "garras"
-    ],
+    "forbidden": ["listras", "felino", "selva", "rugir", "garras"],
     "category": "animais",
     "difficulty": 1
   },
   {
     "id": "c-0196",
     "word": "Elefante",
-    "forbidden": [
-      "tromba",
-      "presas",
-      "cinza",
-      "grande",
-      "orelhas"
-    ],
+    "forbidden": ["tromba", "presas", "cinza", "grande", "orelhas"],
     "category": "animais",
     "difficulty": 1
   },
   {
     "id": "c-0197",
     "word": "Girafa",
-    "forbidden": [
-      "pescoço",
-      "alta",
-      "manchas",
-      "savana",
-      "folhas"
-    ],
+    "forbidden": ["pescoço", "alta", "manchas", "savana", "folhas"],
     "category": "animais",
     "difficulty": 1
   },
   {
     "id": "c-0198",
     "word": "Macaco",
-    "forbidden": [
-      "banana",
-      "galho",
-      "primata",
-      "cauda",
-      "selva"
-    ],
+    "forbidden": ["banana", "galho", "primata", "cauda", "selva"],
     "category": "animais",
     "difficulty": 1
   },
   {
     "id": "c-0199",
     "word": "Cobra",
-    "forbidden": [
-      "veneno",
-      "rastejar",
-      "serpente",
-      "bote",
-      "escamas"
-    ],
+    "forbidden": ["veneno", "rastejar", "serpente", "bote", "escamas"],
     "category": "animais",
     "difficulty": 1
   },
   {
     "id": "c-0200",
     "word": "Jacaré",
-    "forbidden": [
-      "rio",
-      "dentes",
-      "couro",
-      "pantanal",
-      "réptil"
-    ],
+    "forbidden": ["rio", "dentes", "couro", "pantanal", "réptil"],
     "category": "animais",
     "difficulty": 1
   },
   {
     "id": "c-0201",
     "word": "Tartaruga",
-    "forbidden": [
-      "casco",
-      "lenta",
-      "verde",
-      "mar",
-      "réptil"
-    ],
+    "forbidden": ["casco", "lenta", "verde", "mar", "réptil"],
     "category": "animais",
     "difficulty": 1
   },
   {
     "id": "c-0202",
     "word": "Sapo",
-    "forbidden": [
-      "pular",
-      "lagoa",
-      "coaxar",
-      "príncipe",
-      "verde"
-    ],
+    "forbidden": ["pular", "lagoa", "coaxar", "príncipe", "verde"],
     "category": "animais",
     "difficulty": 1
   },
   {
     "id": "c-0203",
     "word": "Borboleta",
-    "forbidden": [
-      "asas",
-      "lagarta",
-      "flor",
-      "colorida",
-      "voar"
-    ],
+    "forbidden": ["asas", "lagarta", "flor", "colorida", "voar"],
     "category": "animais",
     "difficulty": 1
   },
   {
     "id": "c-0204",
     "word": "Abelha",
-    "forbidden": [
-      "mel",
-      "ferrão",
-      "colmeia",
-      "zumbido",
-      "flor"
-    ],
+    "forbidden": ["mel", "ferrão", "colmeia", "zumbido", "flor"],
     "category": "animais",
     "difficulty": 1
   },
   {
     "id": "c-0205",
     "word": "Formiga",
-    "forbidden": [
-      "pequena",
-      "fila",
-      "colônia",
-      "açúcar",
-      "trabalhadora"
-    ],
+    "forbidden": ["pequena", "fila", "colônia", "açúcar", "trabalhadora"],
     "category": "animais",
     "difficulty": 1
   },
   {
     "id": "c-0206",
     "word": "Aranha",
-    "forbidden": [
-      "teia",
-      "oito patas",
-      "veneno",
-      "aracnídeo",
-      "parede"
-    ],
+    "forbidden": ["teia", "oito patas", "veneno", "aracnídeo", "parede"],
     "category": "animais",
     "difficulty": 1
   },
   {
     "id": "c-0207",
     "word": "Mosquito",
-    "forbidden": [
-      "dengue",
-      "picada",
-      "zumbido",
-      "sangue",
-      "repelente"
-    ],
+    "forbidden": ["dengue", "picada", "zumbido", "sangue", "repelente"],
     "category": "animais",
     "difficulty": 1
   },
   {
     "id": "c-0208",
     "word": "Baleia",
-    "forbidden": [
-      "mar",
-      "gigante",
-      "jato",
-      "azul",
-      "mamífero"
-    ],
+    "forbidden": ["mar", "gigante", "jato", "azul", "mamífero"],
     "category": "animais",
     "difficulty": 1
   },
   {
     "id": "c-0209",
     "word": "Golfinho",
-    "forbidden": [
-      "mar",
-      "inteligente",
-      "saltar",
-      "nadar",
-      "mamífero"
-    ],
+    "forbidden": ["mar", "inteligente", "saltar", "nadar", "mamífero"],
     "category": "animais",
     "difficulty": 1
   },
   {
     "id": "c-0210",
     "word": "Tubarão",
-    "forbidden": [
-      "mar",
-      "barbatana",
-      "dentes",
-      "peixe",
-      "ataque"
-    ],
+    "forbidden": ["mar", "barbatana", "dentes", "peixe", "ataque"],
     "category": "animais",
     "difficulty": 1
   },
   {
     "id": "c-0211",
     "word": "Polvo",
-    "forbidden": [
-      "tentáculos",
-      "oito",
-      "mar",
-      "tinta",
-      "molusco"
-    ],
+    "forbidden": ["tentáculos", "oito", "mar", "tinta", "molusco"],
     "category": "animais",
     "difficulty": 1
   },
   {
     "id": "c-0212",
     "word": "Pinguim",
-    "forbidden": [
-      "gelo",
-      "frio",
-      "Antártida",
-      "smoking",
-      "ave"
-    ],
+    "forbidden": ["gelo", "frio", "Antártida", "smoking", "ave"],
     "category": "animais",
     "difficulty": 1
   },
   {
     "id": "c-0213",
     "word": "Urso",
-    "forbidden": [
-      "mel",
-      "pelo",
-      "hibernar",
-      "pardo",
-      "floresta"
-    ],
+    "forbidden": ["mel", "pelo", "hibernar", "pardo", "floresta"],
     "category": "animais",
     "difficulty": 1
   },
   {
     "id": "c-0214",
     "word": "Lobo",
-    "forbidden": [
-      "uivo",
-      "matilha",
-      "floresta",
-      "lua",
-      "selvagem"
-    ],
+    "forbidden": ["uivo", "matilha", "floresta", "lua", "selvagem"],
     "category": "animais",
     "difficulty": 1
   },
   {
     "id": "c-0215",
     "word": "Raposa",
-    "forbidden": [
-      "esperta",
-      "laranja",
-      "cauda",
-      "floresta",
-      "astuta"
-    ],
+    "forbidden": ["esperta", "laranja", "cauda", "floresta", "astuta"],
     "category": "animais",
     "difficulty": 2
   },
   {
     "id": "c-0216",
     "word": "Coruja",
-    "forbidden": [
-      "noite",
-      "olhos",
-      "sábia",
-      "voar",
-      "ave"
-    ],
+    "forbidden": ["noite", "olhos", "sábia", "voar", "ave"],
     "category": "animais",
     "difficulty": 1
   },
   {
     "id": "c-0217",
     "word": "Águia",
-    "forbidden": [
-      "voar",
-      "garras",
-      "ave",
-      "bico",
-      "alta"
-    ],
+    "forbidden": ["voar", "garras", "ave", "bico", "alta"],
     "category": "animais",
     "difficulty": 1
   },
   {
     "id": "c-0218",
     "word": "Papagaio",
-    "forbidden": [
-      "falar",
-      "penas",
-      "verde",
-      "bico",
-      "ave"
-    ],
+    "forbidden": ["falar", "penas", "verde", "bico", "ave"],
     "category": "animais",
     "difficulty": 1
   },
   {
     "id": "c-0219",
     "word": "Canguru",
-    "forbidden": [
-      "bolsa",
-      "pular",
-      "Austrália",
-      "filhote",
-      "marsupial"
-    ],
+    "forbidden": ["bolsa", "pular", "Austrália", "filhote", "marsupial"],
     "category": "animais",
     "difficulty": 1
   },
   {
     "id": "c-0220",
     "word": "Zebra",
-    "forbidden": [
-      "listras",
-      "preto",
-      "branco",
-      "savana",
-      "cavalo"
-    ],
+    "forbidden": ["listras", "preto", "branco", "savana", "cavalo"],
     "category": "animais",
     "difficulty": 1
   },
   {
     "id": "c-0221",
     "word": "Hipopótamo",
-    "forbidden": [
-      "rio",
-      "gordo",
-      "boca",
-      "África",
-      "grande"
-    ],
+    "forbidden": ["rio", "gordo", "boca", "África", "grande"],
     "category": "animais",
     "difficulty": 2
   },
   {
     "id": "c-0222",
     "word": "Rinoceronte",
-    "forbidden": [
-      "chifre",
-      "grande",
-      "África",
-      "couro",
-      "pesado"
-    ],
+    "forbidden": ["chifre", "grande", "África", "couro", "pesado"],
     "category": "animais",
     "difficulty": 2
   },
   {
     "id": "c-0223",
     "word": "Camelo",
-    "forbidden": [
-      "deserto",
-      "corcova",
-      "sede",
-      "areia",
-      "dromedário"
-    ],
+    "forbidden": ["deserto", "corcova", "sede", "areia", "dromedário"],
     "category": "animais",
     "difficulty": 1
   },
   {
     "id": "c-0224",
     "word": "Morcego",
-    "forbidden": [
-      "noite",
-      "asas",
-      "caverna",
-      "sugar",
-      "voar"
-    ],
+    "forbidden": ["noite", "asas", "caverna", "sugar", "voar"],
     "category": "animais",
     "difficulty": 1
   },
   {
     "id": "c-0225",
     "word": "Coelho",
-    "forbidden": [
-      "orelhas",
-      "cenoura",
-      "pular",
-      "páscoa",
-      "fofo"
-    ],
+    "forbidden": ["orelhas", "cenoura", "pular", "páscoa", "fofo"],
     "category": "animais",
     "difficulty": 1
   },
   {
     "id": "c-0226",
     "word": "Rato",
-    "forbidden": [
-      "queijo",
-      "roedor",
-      "esgoto",
-      "pequeno",
-      "gato"
-    ],
+    "forbidden": ["queijo", "roedor", "esgoto", "pequeno", "gato"],
     "category": "animais",
     "difficulty": 1
   },
   {
     "id": "c-0227",
     "word": "Peixe",
-    "forbidden": [
-      "nadar",
-      "água",
-      "escamas",
-      "aquário",
-      "anzol"
-    ],
+    "forbidden": ["nadar", "água", "escamas", "aquário", "anzol"],
     "category": "animais",
     "difficulty": 1
   },
   {
     "id": "c-0228",
     "word": "Camarão",
-    "forbidden": [
-      "crustáceo",
-      "litoral",
-      "casca",
-      "frito",
-      "rosa"
-    ],
+    "forbidden": ["crustáceo", "litoral", "casca", "frito", "rosa"],
     "category": "animais",
     "difficulty": 1
   },
   {
     "id": "c-0229",
     "word": "Caranguejo",
-    "forbidden": [
-      "pinças",
-      "andar de lado",
-      "mar",
-      "casca",
-      "mangue"
-    ],
+    "forbidden": ["pinças", "andar de lado", "mar", "casca", "mangue"],
     "category": "animais",
     "difficulty": 1
   },
   {
     "id": "c-0230",
     "word": "Futebol",
-    "forbidden": [
-      "bola",
-      "gol",
-      "time",
-      "campo",
-      "chute"
-    ],
+    "forbidden": ["bola", "gol", "time", "campo", "chute"],
     "category": "esportes",
     "difficulty": 1
   },
   {
     "id": "c-0231",
     "word": "Basquete",
-    "forbidden": [
-      "cesta",
-      "bola",
-      "quadra",
-      "NBA",
-      "enterrar"
-    ],
+    "forbidden": ["cesta", "bola", "quadra", "NBA", "enterrar"],
     "category": "esportes",
     "difficulty": 1
   },
   {
     "id": "c-0232",
     "word": "Vôlei",
-    "forbidden": [
-      "rede",
-      "saque",
-      "bola",
-      "quadra",
-      "levantar"
-    ],
+    "forbidden": ["rede", "saque", "bola", "quadra", "levantar"],
     "category": "esportes",
     "difficulty": 1
   },
   {
     "id": "c-0233",
     "word": "Natação",
-    "forbidden": [
-      "piscina",
-      "nadar",
-      "braçada",
-      "mergulho",
-      "água"
-    ],
+    "forbidden": ["piscina", "nadar", "braçada", "mergulho", "água"],
     "category": "esportes",
     "difficulty": 1
   },
   {
     "id": "c-0234",
     "word": "Tênis",
-    "forbidden": [
-      "raquete",
-      "quadra",
-      "rede",
-      "saque",
-      "bolinha"
-    ],
+    "forbidden": ["raquete", "quadra", "rede", "saque", "bolinha"],
     "category": "esportes",
     "difficulty": 1
   },
   {
     "id": "c-0235",
     "word": "Corrida",
-    "forbidden": [
-      "correr",
-      "maratona",
-      "pista",
-      "tênis",
-      "largada"
-    ],
+    "forbidden": ["suor", "maratona", "pista", "tênis", "largada"],
     "category": "esportes",
     "difficulty": 1
   },
   {
     "id": "c-0236",
     "word": "Ciclismo",
-    "forbidden": [
-      "bicicleta",
-      "pedal",
-      "estrada",
-      "capacete",
-      "rodas"
-    ],
+    "forbidden": ["bicicleta", "pedal", "estrada", "capacete", "rodas"],
     "category": "esportes",
     "difficulty": 1
   },
   {
     "id": "c-0237",
     "word": "Boxe",
-    "forbidden": [
-      "luvas",
-      "ringue",
-      "soco",
-      "lutador",
-      "nocaute"
-    ],
+    "forbidden": ["luvas", "ringue", "soco", "lutador", "nocaute"],
     "category": "esportes",
     "difficulty": 1
   },
   {
     "id": "c-0238",
     "word": "Judô",
-    "forbidden": [
-      "kimono",
-      "faixa",
-      "luta",
-      "tatame",
-      "japonês"
-    ],
+    "forbidden": ["kimono", "faixa", "luta", "tatame", "japonês"],
     "category": "esportes",
     "difficulty": 1
   },
   {
     "id": "c-0239",
     "word": "Skate",
-    "forbidden": [
-      "prancha",
-      "rodas",
-      "manobra",
-      "rua",
-      "rampa"
-    ],
+    "forbidden": ["prancha", "rodas", "manobra", "rua", "rampa"],
     "category": "esportes",
     "difficulty": 1
   },
   {
     "id": "c-0240",
     "word": "Surfe",
-    "forbidden": [
-      "onda",
-      "prancha",
-      "mar",
-      "praia",
-      "equilíbrio"
-    ],
+    "forbidden": ["onda", "prancha", "mar", "praia", "equilíbrio"],
     "category": "esportes",
     "difficulty": 1
   },
   {
     "id": "c-0241",
     "word": "Ginástica",
-    "forbidden": [
-      "salto",
-      "barras",
-      "aparelhos",
-      "flexível",
-      "medalha"
-    ],
+    "forbidden": ["salto", "barras", "aparelhos", "flexível", "medalha"],
     "category": "esportes",
     "difficulty": 2
   },
   {
     "id": "c-0242",
     "word": "Xadrez",
-    "forbidden": [
-      "tabuleiro",
-      "rei",
-      "peão",
-      "jogo",
-      "mate"
-    ],
+    "forbidden": ["tabuleiro", "rei", "peão", "jogo", "mate"],
     "category": "esportes",
     "difficulty": 1
   },
   {
     "id": "c-0243",
     "word": "Golfe",
-    "forbidden": [
-      "taco",
-      "buraco",
-      "bolinha",
-      "grama",
-      "campo"
-    ],
+    "forbidden": ["taco", "buraco", "bolinha", "grama", "campo"],
     "category": "esportes",
     "difficulty": 1
   },
   {
     "id": "c-0244",
     "word": "Handebol",
-    "forbidden": [
-      "bola",
-      "mãos",
-      "gol",
-      "quadra",
-      "time"
-    ],
+    "forbidden": ["bola", "mãos", "gol", "quadra", "time"],
     "category": "esportes",
     "difficulty": 2
   },
   {
     "id": "c-0245",
     "word": "Atletismo",
-    "forbidden": [
-      "pista",
-      "corrida",
-      "salto",
-      "arremesso",
-      "Olimpíadas"
-    ],
+    "forbidden": ["pista", "corrida", "salto", "arremesso", "Olimpíadas"],
     "category": "esportes",
     "difficulty": 2
   },
   {
     "id": "c-0246",
     "word": "Remo",
-    "forbidden": [
-      "barco",
-      "água",
-      "remar",
-      "equipe",
-      "pás"
-    ],
+    "forbidden": ["barco", "água", "remar", "equipe", "pás"],
     "category": "esportes",
     "difficulty": 2
   },
   {
     "id": "c-0247",
     "word": "Arco e flecha",
-    "forbidden": [
-      "alvo",
-      "mira",
-      "corda",
-      "atirar",
-      "Robin Hood"
-    ],
+    "forbidden": ["alvo", "mira", "corda", "atirar", "Robin Hood"],
     "category": "esportes",
     "difficulty": 2
   },
   {
     "id": "c-0248",
     "word": "Pingue-pongue",
-    "forbidden": [
-      "mesa",
-      "raquete",
-      "bolinha",
-      "rede",
-      "saque"
-    ],
+    "forbidden": ["mesa", "raquete", "bolinha", "rede", "saque"],
     "category": "esportes",
     "difficulty": 1
   },
   {
     "id": "c-0249",
     "word": "Sinuca",
-    "forbidden": [
-      "taco",
-      "bolas",
-      "mesa",
-      "caçapa",
-      "bar"
-    ],
+    "forbidden": ["taco", "bolas", "mesa", "caçapa", "bar"],
     "category": "esportes",
     "difficulty": 1
   },
   {
     "id": "c-0250",
     "word": "Boliche",
-    "forbidden": [
-      "pinos",
-      "bola",
-      "pista",
-      "strike",
-      "derrubar"
-    ],
+    "forbidden": ["pinos", "bola", "pista", "strike", "derrubar"],
     "category": "esportes",
     "difficulty": 1
   },
   {
     "id": "c-0251",
     "word": "Patinação",
-    "forbidden": [
-      "rinque",
-      "gelo",
-      "rodas",
-      "deslizar",
-      "piruetas"
-    ],
+    "forbidden": ["rinque", "gelo", "rodas", "deslizar", "piruetas"],
     "category": "esportes",
     "difficulty": 2
   },
   {
     "id": "c-0252",
     "word": "Esqui",
-    "forbidden": [
-      "neve",
-      "montanha",
-      "deslizar",
-      "bastões",
-      "frio"
-    ],
+    "forbidden": ["neve", "montanha", "deslizar", "bastões", "frio"],
     "category": "esportes",
     "difficulty": 2
   },
   {
     "id": "c-0253",
     "word": "Maratona",
-    "forbidden": [
-      "quilômetros",
-      "longa",
-      "resistência",
-      "pernas",
-      "fôlego"
-    ],
+    "forbidden": ["quilômetros", "longa", "resistência", "pernas", "fôlego"],
     "category": "esportes",
     "difficulty": 2
   },
   {
     "id": "c-0254",
     "word": "Salto com vara",
-    "forbidden": [
-      "altura",
-      "barra",
-      "atleta",
-      "pista",
-      "bastão"
-    ],
+    "forbidden": ["altura", "barra", "atleta", "pista", "bastão"],
     "category": "esportes",
     "difficulty": 2
   },
   {
     "id": "c-0255",
     "word": "Capoeira",
-    "forbidden": [
-      "roda",
-      "berimbau",
-      "golpes",
-      "ginga",
-      "Bahia"
-    ],
+    "forbidden": ["roda", "berimbau", "golpes", "ginga", "Bahia"],
     "category": "esportes",
     "difficulty": 1
   },
   {
     "id": "c-0256",
     "word": "Pênalti",
-    "forbidden": [
-      "gol",
-      "goleiro",
-      "chute",
-      "marca",
-      "falta"
-    ],
+    "forbidden": ["gol", "goleiro", "chute", "marca", "falta"],
     "category": "esportes",
     "difficulty": 1
   },
   {
     "id": "c-0257",
     "word": "Escanteio",
-    "forbidden": [
-      "bola",
-      "canto",
-      "cobrança",
-      "campo",
-      "gol"
-    ],
+    "forbidden": ["bola", "canto", "cobrança", "campo", "gol"],
     "category": "esportes",
     "difficulty": 2
   },
   {
     "id": "c-0258",
     "word": "Goleiro",
-    "forbidden": [
-      "luvas",
-      "defender",
-      "rede",
-      "trave",
-      "bola"
-    ],
+    "forbidden": ["luvas", "defender", "rede", "trave", "bola"],
     "category": "esportes",
     "difficulty": 1
   },
   {
     "id": "c-0259",
     "word": "Torcedor",
-    "forbidden": [
-      "time",
-      "estádio",
-      "camisa",
-      "bandeira",
-      "jogo"
-    ],
+    "forbidden": ["time", "estádio", "camisa", "bandeira", "jogo"],
     "category": "esportes",
     "difficulty": 1
   },
   {
     "id": "c-0260",
     "word": "Árbitro",
-    "forbidden": [
-      "apito",
-      "cartão",
-      "juiz",
-      "partida",
-      "regras"
-    ],
+    "forbidden": ["apito", "cartão", "juiz", "partida", "regras"],
     "category": "esportes",
     "difficulty": 1
   },
   {
     "id": "c-0261",
     "word": "Medalha",
-    "forbidden": [
-      "ouro",
-      "pódio",
-      "Olimpíadas",
-      "prêmio",
-      "pescoço"
-    ],
+    "forbidden": ["ouro", "pódio", "Olimpíadas", "prêmio", "pescoço"],
     "category": "esportes",
     "difficulty": 1
   },
   {
     "id": "c-0262",
     "word": "Troféu",
-    "forbidden": [
-      "taça",
-      "campeão",
-      "prêmio",
-      "vitória",
-      "dourado"
-    ],
+    "forbidden": ["taça", "campeão", "prêmio", "vitória", "dourado"],
     "category": "esportes",
     "difficulty": 1
   },
   {
     "id": "c-0263",
     "word": "Campeonato",
-    "forbidden": [
-      "torneio",
-      "times",
-      "final",
-      "título",
-      "rodada"
-    ],
+    "forbidden": ["torneio", "times", "final", "título", "rodada"],
     "category": "esportes",
     "difficulty": 2
   },
   {
     "id": "c-0264",
     "word": "Olimpíadas",
-    "forbidden": [
-      "jogos",
-      "medalha",
-      "países",
-      "tocha",
-      "quatro anos"
-    ],
+    "forbidden": ["jogos", "medalha", "países", "tocha", "quatro anos"],
     "category": "esportes",
     "difficulty": 1
   },
   {
     "id": "c-0265",
     "word": "Yoga",
-    "forbidden": [
-      "alongar",
-      "posição",
-      "respiração",
-      "tapete",
-      "meditação"
-    ],
+    "forbidden": ["alongar", "posição", "respiração", "tapete", "meditação"],
     "category": "esportes",
     "difficulty": 2
   },
   {
     "id": "c-0266",
     "word": "Pilates",
-    "forbidden": [
-      "bola",
-      "alongamento",
-      "aparelhos",
-      "postura",
-      "aula"
-    ],
+    "forbidden": ["bola", "alongamento", "aparelhos", "postura", "aula"],
     "category": "esportes",
     "difficulty": 2
   },
   {
     "id": "c-0267",
     "word": "Caminhada",
-    "forbidden": [
-      "andar",
-      "passos",
-      "parque",
-      "exercício",
-      "tênis"
-    ],
+    "forbidden": ["andar", "passos", "parque", "exercício", "tênis"],
     "category": "esportes",
     "difficulty": 1
   },
   {
     "id": "c-0268",
     "word": "Futsal",
-    "forbidden": [
-      "quadra",
-      "salão",
-      "gol",
-      "time",
-      "bola"
-    ],
+    "forbidden": ["quadra", "salão", "gol", "time", "bola"],
     "category": "esportes",
     "difficulty": 2
   },
   {
     "id": "c-0269",
     "word": "Fórmula 1",
-    "forbidden": [
-      "carro",
-      "pista",
-      "piloto",
-      "velocidade",
-      "Senna"
-    ],
+    "forbidden": ["carro", "pista", "piloto", "velocidade", "Senna"],
     "category": "esportes",
     "difficulty": 1
   },
   {
     "id": "c-0270",
     "word": "Novela",
-    "forbidden": [
-      "capítulo",
-      "vilã",
-      "casal",
-      "TV",
-      "final"
-    ],
+    "forbidden": ["capítulo", "vilã", "casal", "TV", "final"],
     "category": "cultura",
     "difficulty": 1
   },
   {
     "id": "c-0271",
     "word": "Samba",
-    "forbidden": [
-      "ritmo",
-      "carnaval",
-      "pandeiro",
-      "tamborim",
-      "roda"
-    ],
+    "forbidden": ["ritmo", "carnaval", "pandeiro", "tamborim", "roda"],
     "category": "cultura",
     "difficulty": 1
   },
   {
     "id": "c-0272",
     "word": "Carnaval",
-    "forbidden": [
-      "fantasia",
-      "bloco",
-      "folia",
-      "desfile",
-      "fevereiro"
-    ],
+    "forbidden": ["fantasia", "bloco", "folia", "desfile", "fevereiro"],
     "category": "cultura",
     "difficulty": 1
   },
   {
     "id": "c-0273",
     "word": "Forró",
-    "forbidden": [
-      "nordeste",
-      "sanfona",
-      "festa junina",
-      "dança",
-      "par"
-    ],
+    "forbidden": ["nordeste", "sanfona", "festa junina", "dança", "par"],
     "category": "cultura",
     "difficulty": 2
   },
   {
     "id": "c-0274",
     "word": "Sertanejo",
-    "forbidden": [
-      "viola",
-      "música",
-      "interior",
-      "botina",
-      "chapéu"
-    ],
+    "forbidden": ["viola", "música", "interior", "botina", "chapéu"],
     "category": "cultura",
     "difficulty": 2
   },
   {
     "id": "c-0275",
     "word": "Funk",
-    "forbidden": [
-      "baile",
-      "batida",
-      "música",
-      "dança",
-      "MC"
-    ],
+    "forbidden": ["baile", "batida", "música", "dança", "MC"],
     "category": "cultura",
     "difficulty": 1
   },
   {
     "id": "c-0276",
     "word": "Rock",
-    "forbidden": [
-      "guitarra",
-      "banda",
-      "pesada",
-      "show",
-      "bateria"
-    ],
+    "forbidden": ["guitarra", "banda", "pesada", "show", "bateria"],
     "category": "cultura",
     "difficulty": 1
   },
   {
     "id": "c-0277",
     "word": "Violão",
-    "forbidden": [
-      "cordas",
-      "tocar",
-      "música",
-      "madeira",
-      "dedilhar"
-    ],
+    "forbidden": ["cordas", "tocar", "música", "madeira", "dedilhar"],
     "category": "cultura",
     "difficulty": 1
   },
   {
     "id": "c-0278",
     "word": "Guitarra",
-    "forbidden": [
-      "cordas",
-      "rock",
-      "elétrica",
-      "palheta",
-      "solo"
-    ],
+    "forbidden": ["cordas", "rock", "elétrica", "palheta", "solo"],
     "category": "cultura",
     "difficulty": 1
   },
   {
     "id": "c-0279",
     "word": "Piano",
-    "forbidden": [
-      "teclas",
-      "música",
-      "cauda",
-      "tocar",
-      "clássico"
-    ],
+    "forbidden": ["teclas", "música", "cauda", "tocar", "clássico"],
     "category": "cultura",
     "difficulty": 1
   },
   {
     "id": "c-0280",
     "word": "Bateria",
-    "forbidden": [
-      "baquetas",
-      "tambor",
-      "banda",
-      "pratos",
-      "ritmo"
-    ],
+    "forbidden": ["baquetas", "tambor", "banda", "pratos", "ritmo"],
     "category": "cultura",
     "difficulty": 1
   },
   {
     "id": "c-0281",
     "word": "Microfone",
-    "forbidden": [
-      "cantar",
-      "voz",
-      "som",
-      "palco",
-      "gravar"
-    ],
+    "forbidden": ["cantar", "voz", "som", "palco", "gravar"],
     "category": "cultura",
     "difficulty": 1
   },
   {
     "id": "c-0282",
     "word": "Show",
-    "forbidden": [
-      "palco",
-      "ingressos",
-      "banda",
-      "público",
-      "música"
-    ],
+    "forbidden": ["palco", "ingressos", "banda", "público", "música"],
     "category": "cultura",
     "difficulty": 1
   },
   {
     "id": "c-0283",
     "word": "Teatro",
-    "forbidden": [
-      "palco",
-      "peça",
-      "atores",
-      "cortina",
-      "plateia"
-    ],
+    "forbidden": ["palco", "peça", "atores", "cortina", "plateia"],
     "category": "cultura",
     "difficulty": 1
   },
   {
     "id": "c-0284",
     "word": "Filme",
-    "forbidden": [
-      "cinema",
-      "ator",
-      "pipoca",
-      "tela",
-      "diretor"
-    ],
+    "forbidden": ["cinema", "ator", "pipoca", "tela", "diretor"],
     "category": "cultura",
     "difficulty": 1
   },
   {
     "id": "c-0285",
     "word": "Série",
-    "forbidden": [
-      "episódios",
-      "temporada",
-      "streaming",
-      "maratona",
-      "TV"
-    ],
+    "forbidden": ["episódios", "temporada", "streaming", "maratona", "TV"],
     "category": "cultura",
     "difficulty": 1
   },
   {
     "id": "c-0286",
     "word": "Desenho animado",
-    "forbidden": [
-      "crianças",
-      "TV",
-      "personagem",
-      "cartum",
-      "sábado"
-    ],
+    "forbidden": ["crianças", "TV", "personagem", "cartum", "sábado"],
     "category": "cultura",
     "difficulty": 1
   },
   {
     "id": "c-0287",
     "word": "Dança",
-    "forbidden": [
-      "passos",
-      "ritmo",
-      "música",
-      "par",
-      "coreografia"
-    ],
+    "forbidden": ["passos", "ritmo", "música", "par", "coreografia"],
     "category": "cultura",
     "difficulty": 1
   },
   {
     "id": "c-0288",
     "word": "Karaokê",
-    "forbidden": [
-      "cantar",
-      "microfone",
-      "letra",
-      "bar",
-      "tela"
-    ],
+    "forbidden": ["cantar", "microfone", "letra", "bar", "tela"],
     "category": "cultura",
     "difficulty": 1
   },
   {
     "id": "c-0289",
     "word": "Piada",
-    "forbidden": [
-      "riso",
-      "engraçada",
-      "humor",
-      "contar",
-      "graça"
-    ],
+    "forbidden": ["riso", "engraçada", "humor", "contar", "graça"],
     "category": "cultura",
     "difficulty": 1
   },
   {
     "id": "c-0290",
     "word": "Meme",
-    "forbidden": [
-      "internet",
-      "engraçado",
-      "imagem",
-      "viral",
-      "redes"
-    ],
+    "forbidden": ["internet", "engraçado", "imagem", "viral", "redes"],
     "category": "cultura",
     "difficulty": 1
   },
   {
     "id": "c-0291",
     "word": "Princesa",
-    "forbidden": [
-      "castelo",
-      "coroa",
-      "realeza",
-      "conto de fadas",
-      "rainha"
-    ],
+    "forbidden": ["castelo", "coroa", "realeza", "conto de fadas", "rainha"],
     "category": "cultura",
     "difficulty": 1
   },
   {
     "id": "c-0292",
     "word": "Pirata",
-    "forbidden": [
-      "navio",
-      "tesouro",
-      "tapa-olho",
-      "mar",
-      "bandeira"
-    ],
+    "forbidden": ["navio", "tesouro", "tapa-olho", "mar", "bandeira"],
     "category": "cultura",
     "difficulty": 1
   },
   {
     "id": "c-0293",
     "word": "Fantasma",
-    "forbidden": [
-      "assombrar",
-      "morto",
-      "lençol",
-      "medo",
-      "Halloween"
-    ],
+    "forbidden": ["assombrar", "morto", "lençol", "medo", "Halloween"],
     "category": "cultura",
     "difficulty": 1
   },
   {
     "id": "c-0294",
     "word": "Bruxa",
-    "forbidden": [
-      "vassoura",
-      "poção",
-      "chapéu",
-      "feitiço",
-      "magia"
-    ],
+    "forbidden": ["vassoura", "poção", "chapéu", "feitiço", "magia"],
     "category": "cultura",
     "difficulty": 1
   },
   {
     "id": "c-0295",
     "word": "Vampiro",
-    "forbidden": [
-      "sangue",
-      "dentes",
-      "Drácula",
-      "noite",
-      "morcego"
-    ],
+    "forbidden": ["sangue", "dentes", "Drácula", "noite", "morcego"],
     "category": "cultura",
     "difficulty": 1
   },
   {
     "id": "c-0296",
     "word": "Zumbi",
-    "forbidden": [
-      "morto-vivo",
-      "cérebro",
-      "apocalipse",
-      "lento",
-      "monstro"
-    ],
+    "forbidden": ["morto-vivo", "cérebro", "apocalipse", "lento", "monstro"],
     "category": "cultura",
     "difficulty": 1
   },
   {
     "id": "c-0297",
     "word": "Dragão",
-    "forbidden": [
-      "fogo",
-      "asas",
-      "medieval",
-      "escamas",
-      "cavaleiro"
-    ],
+    "forbidden": ["fogo", "asas", "medieval", "escamas", "cavaleiro"],
     "category": "cultura",
     "difficulty": 1
   },
   {
     "id": "c-0298",
     "word": "Super-herói",
-    "forbidden": [
-      "capa",
-      "poderes",
-      "vilão",
-      "salvar",
-      "máscara"
-    ],
+    "forbidden": ["capa", "poderes", "vilão", "salvar", "máscara"],
     "category": "cultura",
     "difficulty": 1
   },
   {
     "id": "c-0299",
     "word": "Robô",
-    "forbidden": [
-      "máquina",
-      "metal",
-      "tecnologia",
-      "automático",
-      "andróide"
-    ],
+    "forbidden": ["máquina", "metal", "tecnologia", "automático", "andróide"],
     "category": "cultura",
     "difficulty": 1
   },
   {
     "id": "c-0300",
     "word": "Alienígena",
-    "forbidden": [
-      "espaço",
-      "ET",
-      "planeta",
-      "nave",
-      "verde"
-    ],
+    "forbidden": ["espaço", "ET", "planeta", "nave", "verde"],
     "category": "cultura",
     "difficulty": 1
   },
   {
     "id": "c-0301",
     "word": "Sereia",
-    "forbidden": [
-      "mar",
-      "metade peixe",
-      "cauda",
-      "canto",
-      "lenda"
-    ],
+    "forbidden": ["mar", "metade peixe", "cauda", "canto", "lenda"],
     "category": "cultura",
     "difficulty": 1
   },
   {
     "id": "c-0302",
     "word": "Lobisomem",
-    "forbidden": [
-      "lua cheia",
-      "uivar",
-      "monstro",
-      "pelos",
-      "lenda"
-    ],
+    "forbidden": ["lua cheia", "uivar", "monstro", "pelos", "lenda"],
     "category": "cultura",
     "difficulty": 2
   },
   {
     "id": "c-0303",
     "word": "Saci",
-    "forbidden": [
-      "perna",
-      "redemoinho",
-      "lenda",
-      "cachimbo",
-      "folclore"
-    ],
+    "forbidden": ["perna", "redemoinho", "lenda", "cachimbo", "folclore"],
     "category": "cultura",
     "difficulty": 2
   },
   {
     "id": "c-0304",
     "word": "Curupira",
-    "forbidden": [
-      "pés virados",
-      "floresta",
-      "folclore",
-      "lenda",
-      "mata"
-    ],
+    "forbidden": ["pés virados", "floresta", "folclore", "lenda", "mata"],
     "category": "cultura",
     "difficulty": 3
   },
   {
     "id": "c-0305",
     "word": "Magia",
-    "forbidden": [
-      "truque",
-      "varinha",
-      "feitiço",
-      "poder",
-      "ilusão"
-    ],
+    "forbidden": ["truque", "varinha", "feitiço", "poder", "ilusão"],
     "category": "cultura",
     "difficulty": 1
   },
   {
     "id": "c-0306",
     "word": "Tesouro",
-    "forbidden": [
-      "mapa",
-      "pirata",
-      "baú",
-      "joias",
-      "esconder"
-    ],
+    "forbidden": ["mapa", "pirata", "baú", "joias", "esconder"],
     "category": "cultura",
     "difficulty": 1
   },
   {
     "id": "c-0307",
     "word": "Aventura",
-    "forbidden": [
-      "explorar",
-      "viagem",
-      "risco",
-      "emocionante",
-      "desafio"
-    ],
+    "forbidden": ["explorar", "viagem", "risco", "emocionante", "desafio"],
     "category": "cultura",
     "difficulty": 1
   },
   {
     "id": "c-0308",
     "word": "Mistério",
-    "forbidden": [
-      "enigma",
-      "suspense",
-      "pistas",
-      "segredo",
-      "detetive"
-    ],
+    "forbidden": ["enigma", "suspense", "pistas", "segredo", "detetive"],
     "category": "cultura",
     "difficulty": 2
   },
   {
     "id": "c-0309",
     "word": "Terror",
-    "forbidden": [
-      "medo",
-      "susto",
-      "filme",
-      "assustador",
-      "escuro"
-    ],
+    "forbidden": ["medo", "susto", "filme", "assustador", "escuro"],
     "category": "cultura",
     "difficulty": 1
   },
   {
     "id": "c-0310",
     "word": "Comédia",
-    "forbidden": [
-      "humor",
-      "riso",
-      "piada",
-      "filme",
-      "engraçada"
-    ],
+    "forbidden": ["humor", "riso", "piada", "filme", "engraçada"],
     "category": "cultura",
     "difficulty": 1
   },
   {
     "id": "c-0311",
     "word": "Romance",
-    "forbidden": [
-      "amor",
-      "casal",
-      "paixão",
-      "beijo",
-      "livro"
-    ],
+    "forbidden": ["amor", "casal", "paixão", "beijo", "livro"],
     "category": "cultura",
     "difficulty": 1
   },
   {
     "id": "c-0312",
     "word": "Orquestra",
-    "forbidden": [
-      "maestro",
-      "instrumentos",
-      "música",
-      "clássica",
-      "sinfonia"
-    ],
+    "forbidden": ["maestro", "instrumentos", "música", "clássica", "sinfonia"],
     "category": "cultura",
     "difficulty": 2
   },
   {
     "id": "c-0313",
     "word": "Correr",
-    "forbidden": [
-      "pernas",
-      "rápido",
-      "pressa",
-      "maratona",
-      "andar"
-    ],
+    "forbidden": ["pernas", "rápido", "pressa", "maratona", "andar"],
     "category": "acoes",
     "difficulty": 1
   },
   {
     "id": "c-0314",
     "word": "Pular",
-    "forbidden": [
-      "saltar",
-      "corda",
-      "pé",
-      "alto",
-      "sapo"
-    ],
+    "forbidden": ["saltar", "corda", "pé", "alto", "sapo"],
     "category": "acoes",
     "difficulty": 1
   },
   {
     "id": "c-0315",
     "word": "Dormir",
-    "forbidden": [
-      "sono",
-      "cama",
-      "sonhar",
-      "noite",
-      "cochilo"
-    ],
+    "forbidden": ["sono", "cama", "sonhar", "noite", "cochilo"],
     "category": "acoes",
     "difficulty": 1
   },
   {
     "id": "c-0316",
     "word": "Acordar",
-    "forbidden": [
-      "despertador",
-      "manhã",
-      "sono",
-      "levantar",
-      "cama"
-    ],
+    "forbidden": ["despertador", "manhã", "sono", "levantar", "cama"],
     "category": "acoes",
     "difficulty": 1
   },
   {
     "id": "c-0317",
     "word": "Comer",
-    "forbidden": [
-      "boca",
-      "fome",
-      "prato",
-      "mastigar",
-      "refeição"
-    ],
+    "forbidden": ["boca", "fome", "prato", "mastigar", "refeição"],
     "category": "acoes",
     "difficulty": 1
   },
   {
     "id": "c-0318",
     "word": "Beber",
-    "forbidden": [
-      "sede",
-      "copo",
-      "líquido",
-      "água",
-      "gole"
-    ],
+    "forbidden": ["sede", "copo", "líquido", "água", "gole"],
     "category": "acoes",
     "difficulty": 1
   },
   {
     "id": "c-0319",
     "word": "Cozinhar",
-    "forbidden": [
-      "fogão",
-      "panela",
-      "comida",
-      "receita",
-      "tempero"
-    ],
+    "forbidden": ["fogão", "panela", "comida", "receita", "tempero"],
     "category": "acoes",
     "difficulty": 1
   },
   {
     "id": "c-0320",
     "word": "Cantar",
-    "forbidden": [
-      "música",
-      "voz",
-      "letra",
-      "microfone",
-      "banho"
-    ],
+    "forbidden": ["música", "voz", "letra", "microfone", "banho"],
     "category": "acoes",
     "difficulty": 1
   },
   {
     "id": "c-0321",
     "word": "Dançar",
-    "forbidden": [
-      "ritmo",
-      "passos",
-      "música",
-      "festa",
-      "par"
-    ],
+    "forbidden": ["ritmo", "passos", "música", "festa", "par"],
     "category": "acoes",
     "difficulty": 1
   },
   {
     "id": "c-0322",
     "word": "Nadar",
-    "forbidden": [
-      "água",
-      "piscina",
-      "braçadas",
-      "mergulhar",
-      "boiar"
-    ],
+    "forbidden": ["água", "piscina", "braçadas", "mergulhar", "boiar"],
     "category": "acoes",
     "difficulty": 1
   },
   {
     "id": "c-0323",
     "word": "Escrever",
-    "forbidden": [
-      "caneta",
-      "papel",
-      "texto",
-      "letra",
-      "carta"
-    ],
+    "forbidden": ["caneta", "papel", "texto", "letra", "carta"],
     "category": "acoes",
     "difficulty": 1
   },
   {
     "id": "c-0324",
     "word": "Ler",
-    "forbidden": [
-      "livro",
-      "olhos",
-      "página",
-      "história",
-      "texto"
-    ],
+    "forbidden": ["livro", "olhos", "página", "história", "texto"],
     "category": "acoes",
     "difficulty": 1
   },
   {
     "id": "c-0325",
     "word": "Desenhar",
-    "forbidden": [
-      "lápis",
-      "papel",
-      "traço",
-      "arte",
-      "rabiscar"
-    ],
+    "forbidden": ["lápis", "papel", "traço", "arte", "rabiscar"],
     "category": "acoes",
     "difficulty": 1
   },
   {
     "id": "c-0326",
     "word": "Pintar",
-    "forbidden": [
-      "tinta",
-      "pincel",
-      "parede",
-      "cor",
-      "quadro"
-    ],
+    "forbidden": ["tinta", "pincel", "parede", "cor", "quadro"],
     "category": "acoes",
     "difficulty": 1
   },
   {
     "id": "c-0327",
     "word": "Abraçar",
-    "forbidden": [
-      "braços",
-      "carinho",
-      "apertar",
-      "afeto",
-      "amigo"
-    ],
+    "forbidden": ["braços", "carinho", "apertar", "afeto", "amigo"],
     "category": "acoes",
     "difficulty": 1
   },
   {
     "id": "c-0328",
     "word": "Beijar",
-    "forbidden": [
-      "boca",
-      "lábios",
-      "amor",
-      "carinho",
-      "namorado"
-    ],
+    "forbidden": ["boca", "lábios", "amor", "carinho", "namorado"],
     "category": "acoes",
     "difficulty": 1
   },
   {
     "id": "c-0329",
     "word": "Chorar",
-    "forbidden": [
-      "lágrimas",
-      "tristeza",
-      "olhos",
-      "soluçar",
-      "lenço"
-    ],
+    "forbidden": ["lágrimas", "tristeza", "olhos", "soluçar", "lenço"],
     "category": "acoes",
     "difficulty": 1
   },
   {
     "id": "c-0330",
     "word": "Rir",
-    "forbidden": [
-      "piada",
-      "gargalhada",
-      "alegre",
-      "graça",
-      "sorriso"
-    ],
+    "forbidden": ["piada", "gargalhada", "alegre", "graça", "sorriso"],
     "category": "acoes",
     "difficulty": 1
   },
   {
     "id": "c-0331",
     "word": "Gritar",
-    "forbidden": [
-      "voz",
-      "alto",
-      "berro",
-      "susto",
-      "garganta"
-    ],
+    "forbidden": ["voz", "alto", "berro", "susto", "garganta"],
     "category": "acoes",
     "difficulty": 1
   },
   {
     "id": "c-0332",
     "word": "Sussurrar",
-    "forbidden": [
-      "baixinho",
-      "segredo",
-      "ouvido",
-      "voz",
-      "silêncio"
-    ],
+    "forbidden": ["baixinho", "segredo", "ouvido", "voz", "silêncio"],
     "category": "acoes",
     "difficulty": 2
   },
   {
     "id": "c-0333",
     "word": "Mentir",
-    "forbidden": [
-      "verdade",
-      "falso",
-      "enganar",
-      "contar",
-      "nariz"
-    ],
+    "forbidden": ["verdade", "falso", "enganar", "contar", "nariz"],
     "category": "acoes",
     "difficulty": 1
   },
   {
     "id": "c-0334",
     "word": "Roubar",
-    "forbidden": [
-      "ladrão",
-      "furtar",
-      "crime",
-      "levar",
-      "polícia"
-    ],
+    "forbidden": ["ladrão", "furtar", "crime", "levar", "polícia"],
     "category": "acoes",
     "difficulty": 1
   },
   {
     "id": "c-0335",
     "word": "Empurrar",
-    "forbidden": [
-      "força",
-      "mãos",
-      "porta",
-      "puxar",
-      "carro"
-    ],
+    "forbidden": ["força", "mãos", "porta", "puxar", "carro"],
     "category": "acoes",
     "difficulty": 1
   },
   {
     "id": "c-0336",
     "word": "Jogar",
-    "forbidden": [
-      "brincar",
-      "diversão",
-      "partida",
-      "tabuleiro",
-      "vencer"
-    ],
+    "forbidden": ["brincar", "diversão", "partida", "tabuleiro", "vencer"],
     "category": "acoes",
     "difficulty": 1
   },
   {
     "id": "c-0337",
     "word": "Brincar",
-    "forbidden": [
-      "crianças",
-      "jogo",
-      "diversão",
-      "pique",
-      "parque"
-    ],
+    "forbidden": ["crianças", "jogo", "diversão", "pique", "parque"],
     "category": "acoes",
     "difficulty": 1
   },
   {
     "id": "c-0338",
     "word": "Estudar",
-    "forbidden": [
-      "livro",
-      "prova",
-      "escola",
-      "aprender",
-      "caderno"
-    ],
+    "forbidden": ["livro", "prova", "escola", "aprender", "caderno"],
     "category": "acoes",
     "difficulty": 1
   },
   {
     "id": "c-0339",
     "word": "Trabalhar",
-    "forbidden": [
-      "emprego",
-      "escritório",
-      "salário",
-      "chefe",
-      "expediente"
-    ],
+    "forbidden": ["emprego", "escritório", "salário", "chefe", "expediente"],
     "category": "acoes",
     "difficulty": 1
   },
   {
     "id": "c-0340",
     "word": "Viajar",
-    "forbidden": [
-      "mala",
-      "passagem",
-      "destino",
-      "férias",
-      "avião"
-    ],
+    "forbidden": ["mala", "passagem", "destino", "férias", "avião"],
     "category": "acoes",
     "difficulty": 1
   },
   {
     "id": "c-0341",
     "word": "Dirigir",
-    "forbidden": [
-      "volante",
-      "carro",
-      "habilitação",
-      "estrada",
-      "motorista"
-    ],
+    "forbidden": ["volante", "carro", "habilitação", "estrada", "motorista"],
     "category": "acoes",
     "difficulty": 1
   },
   {
     "id": "c-0342",
     "word": "Pedalar",
-    "forbidden": [
-      "bicicleta",
-      "pernas",
-      "rodas",
-      "bike",
-      "guidão"
-    ],
+    "forbidden": ["bicicleta", "pernas", "rodas", "bike", "guidão"],
     "category": "acoes",
     "difficulty": 1
   },
   {
     "id": "c-0343",
     "word": "Escalar",
-    "forbidden": [
-      "montanha",
-      "subir",
-      "corda",
-      "altura",
-      "parede"
-    ],
+    "forbidden": ["montanha", "subir", "corda", "altura", "parede"],
     "category": "acoes",
     "difficulty": 1
   },
   {
     "id": "c-0344",
     "word": "Plantar",
-    "forbidden": [
-      "semente",
-      "terra",
-      "horta",
-      "regar",
-      "árvore"
-    ],
+    "forbidden": ["semente", "terra", "horta", "regar", "árvore"],
     "category": "acoes",
     "difficulty": 1
   },
   {
     "id": "c-0345",
     "word": "Pescar",
-    "forbidden": [
-      "peixe",
-      "vara",
-      "anzol",
-      "rio",
-      "isca"
-    ],
+    "forbidden": ["peixe", "vara", "anzol", "rio", "isca"],
     "category": "acoes",
     "difficulty": 1
   },
   {
     "id": "c-0346",
     "word": "Passar roupa",
-    "forbidden": [
-      "ferro",
-      "vincos",
-      "tábua",
-      "camisa",
-      "alisar"
-    ],
+    "forbidden": ["ferro", "vincos", "tábua", "camisa", "alisar"],
     "category": "acoes",
     "difficulty": 2
   },
   {
     "id": "c-0347",
     "word": "Costurar",
-    "forbidden": [
-      "agulha",
-      "linha",
-      "tecido",
-      "máquina",
-      "roupa"
-    ],
+    "forbidden": ["agulha", "linha", "tecido", "máquina", "roupa"],
     "category": "acoes",
     "difficulty": 2
   },
   {
     "id": "c-0348",
     "word": "Cortar",
-    "forbidden": [
-      "faca",
-      "tesoura",
-      "lâmina",
-      "pedaço",
-      "dividir"
-    ],
+    "forbidden": ["faca", "tesoura", "lâmina", "pedaço", "dividir"],
     "category": "acoes",
     "difficulty": 1
   },
   {
     "id": "c-0349",
     "word": "Quebrar",
-    "forbidden": [
-      "partir",
-      "pedaços",
-      "vidro",
-      "destruir",
-      "estragar"
-    ],
+    "forbidden": ["partir", "pedaços", "vidro", "destruir", "estragar"],
     "category": "acoes",
     "difficulty": 1
   },
   {
     "id": "c-0350",
     "word": "Esquecer",
-    "forbidden": [
-      "memória",
-      "lembrar",
-      "cabeça",
-      "distração",
-      "perder"
-    ],
+    "forbidden": ["memória", "lembrar", "cabeça", "distração", "perder"],
     "category": "acoes",
     "difficulty": 1
   },
   {
     "id": "c-0351",
     "word": "Lembrar",
-    "forbidden": [
-      "memória",
-      "mente",
-      "recordar",
-      "passado",
-      "esquecer"
-    ],
+    "forbidden": ["memória", "mente", "recordar", "passado", "esquecer"],
     "category": "acoes",
     "difficulty": 1
   },
   {
     "id": "c-0352",
     "word": "Pensar",
-    "forbidden": [
-      "cabeça",
-      "ideia",
-      "cérebro",
-      "refletir",
-      "mente"
-    ],
+    "forbidden": ["cabeça", "ideia", "cérebro", "refletir", "mente"],
     "category": "acoes",
     "difficulty": 1
   },
   {
     "id": "c-0353",
     "word": "Sonhar",
-    "forbidden": [
-      "dormir",
-      "noite",
-      "fantasia",
-      "desejo",
-      "pesadelo"
-    ],
+    "forbidden": ["dormir", "noite", "fantasia", "desejo", "pesadelo"],
     "category": "acoes",
     "difficulty": 1
   },
   {
     "id": "c-0354",
     "word": "Espirrar",
-    "forbidden": [
-      "nariz",
-      "atchim",
-      "gripe",
-      "alergia",
-      "lenço"
-    ],
+    "forbidden": ["nariz", "atchim", "gripe", "alergia", "lenço"],
     "category": "acoes",
     "difficulty": 1
   },
   {
     "id": "c-0355",
     "word": "Tossir",
-    "forbidden": [
-      "garganta",
-      "gripe",
-      "pigarro",
-      "peito",
-      "resfriado"
-    ],
+    "forbidden": ["garganta", "gripe", "pigarro", "peito", "resfriado"],
     "category": "acoes",
     "difficulty": 1
   },
   {
     "id": "c-0356",
     "word": "Fofocar",
-    "forbidden": [
-      "segredo",
-      "conversa",
-      "falar",
-      "boato",
-      "língua"
-    ],
+    "forbidden": ["segredo", "conversa", "falar", "boato", "língua"],
     "category": "acoes",
     "difficulty": 2
   },
   {
     "id": "c-0357",
     "word": "Namorar",
-    "forbidden": [
-      "casal",
-      "romance",
-      "par",
-      "beijo",
-      "paquera"
-    ],
+    "forbidden": ["casal", "romance", "par", "beijo", "paquera"],
     "category": "acoes",
     "difficulty": 1
   },
   {
     "id": "c-0358",
     "word": "Casar",
-    "forbidden": [
-      "noiva",
-      "altar",
-      "aliança",
-      "festa",
-      "igreja"
-    ],
+    "forbidden": ["noiva", "altar", "aliança", "festa", "igreja"],
     "category": "acoes",
     "difficulty": 1
   },
   {
     "id": "c-0359",
     "word": "Fugir",
-    "forbidden": [
-      "escapar",
-      "correr",
-      "perseguição",
-      "sumir",
-      "esconder"
-    ],
+    "forbidden": ["escapar", "correr", "perseguição", "sumir", "esconder"],
     "category": "acoes",
     "difficulty": 1
   },
   {
     "id": "c-0360",
     "word": "Esconder",
-    "forbidden": [
-      "segredo",
-      "escuro",
-      "sumir",
-      "encontrar",
-      "atrás"
-    ],
+    "forbidden": ["segredo", "escuro", "sumir", "encontrar", "atrás"],
     "category": "acoes",
     "difficulty": 1
   },
   {
     "id": "c-0361",
     "word": "Procurar",
-    "forbidden": [
-      "achar",
-      "buscar",
-      "olhos",
-      "perdido",
-      "encontrar"
-    ],
+    "forbidden": ["achar", "buscar", "olhos", "perdido", "encontrar"],
     "category": "acoes",
     "difficulty": 1
   },
   {
     "id": "c-0362",
     "word": "Chutar",
-    "forbidden": [
-      "pé",
-      "bola",
-      "gol",
-      "força",
-      "perna"
-    ],
+    "forbidden": ["pé", "bola", "gol", "força", "perna"],
     "category": "acoes",
     "difficulty": 1
   },
   {
     "id": "c-0363",
     "word": "Aplaudir",
-    "forbidden": [
-      "mãos",
-      "palmas",
-      "show",
-      "público",
-      "bater"
-    ],
+    "forbidden": ["mãos", "palmas", "show", "público", "bater"],
     "category": "acoes",
     "difficulty": 1
   },
   {
     "id": "c-0364",
     "word": "Mergulhar",
-    "forbidden": [
-      "água",
-      "fundo",
-      "piscina",
-      "oxigênio",
-      "saltar"
-    ],
+    "forbidden": ["água", "fundo", "piscina", "oxigênio", "saltar"],
     "category": "acoes",
     "difficulty": 2
   },
   {
     "id": "c-0365",
     "word": "Aniversário",
-    "forbidden": [
-      "bolo",
-      "velas",
-      "parabéns",
-      "presente",
-      "idade"
-    ],
+    "forbidden": ["bolo", "velas", "parabéns", "presente", "idade"],
     "category": "festas",
     "difficulty": 1
   },
   {
     "id": "c-0366",
     "word": "Casamento",
-    "forbidden": [
-      "noiva",
-      "noivo",
-      "altar",
-      "aliança",
-      "festa"
-    ],
+    "forbidden": ["noiva", "noivo", "altar", "aliança", "festa"],
     "category": "festas",
     "difficulty": 1
   },
   {
     "id": "c-0367",
     "word": "Formatura",
-    "forbidden": [
-      "beca",
-      "diploma",
-      "faculdade",
-      "capelo",
-      "festa"
-    ],
+    "forbidden": ["beca", "diploma", "faculdade", "capelo", "festa"],
     "category": "festas",
     "difficulty": 1
   },
   {
     "id": "c-0368",
     "word": "Natal",
-    "forbidden": [
-      "presentes",
-      "Papai Noel",
-      "árvore",
-      "dezembro",
-      "ceia"
-    ],
+    "forbidden": ["presentes", "Papai Noel", "árvore", "dezembro", "ceia"],
     "category": "festas",
     "difficulty": 1
   },
   {
     "id": "c-0369",
     "word": "Réveillon",
-    "forbidden": [
-      "ano novo",
-      "fogos",
-      "virada",
-      "champanhe",
-      "meia-noite"
-    ],
+    "forbidden": ["ano novo", "fogos", "virada", "champanhe", "meia-noite"],
     "category": "festas",
     "difficulty": 1
   },
   {
     "id": "c-0370",
     "word": "Páscoa",
-    "forbidden": [
-      "coelho",
-      "chocolate",
-      "ovos",
-      "domingo",
-      "Jesus"
-    ],
+    "forbidden": ["coelho", "chocolate", "ovos", "domingo", "Jesus"],
     "category": "festas",
     "difficulty": 1
   },
   {
     "id": "c-0371",
     "word": "Festa junina",
-    "forbidden": [
-      "quadrilha",
-      "fogueira",
-      "milho",
-      "caipira",
-      "bandeirinhas"
-    ],
+    "forbidden": ["quadrilha", "fogueira", "milho", "caipira", "bandeirinhas"],
     "category": "festas",
     "difficulty": 1
   },
   {
     "id": "c-0372",
     "word": "Halloween",
-    "forbidden": [
-      "abóbora",
-      "fantasia",
-      "doces",
-      "terror",
-      "outubro"
-    ],
+    "forbidden": ["abóbora", "fantasia", "doces", "terror", "outubro"],
     "category": "festas",
     "difficulty": 1
   },
   {
     "id": "c-0373",
     "word": "Dia das Mães",
-    "forbidden": [
-      "presente",
-      "maio",
-      "homenagem",
-      "flores",
-      "carinho"
-    ],
+    "forbidden": ["presente", "maio", "homenagem", "flores", "carinho"],
     "category": "festas",
     "difficulty": 1
   },
   {
     "id": "c-0374",
     "word": "Dia dos Namorados",
-    "forbidden": [
-      "junho",
-      "casais",
-      "presente",
-      "paixão",
-      "jantar"
-    ],
+    "forbidden": ["junho", "casais", "presente", "paixão", "jantar"],
     "category": "festas",
     "difficulty": 1
   },
   {
     "id": "c-0375",
     "word": "Dia dos Pais",
-    "forbidden": [
-      "presente",
-      "agosto",
-      "homenagem",
-      "churrasco",
-      "gravata"
-    ],
+    "forbidden": ["presente", "agosto", "homenagem", "churrasco", "gravata"],
     "category": "festas",
     "difficulty": 1
   },
   {
     "id": "c-0376",
     "word": "Chá de bebê",
-    "forbidden": [
-      "grávida",
-      "fraldas",
-      "presentes",
-      "jogos",
-      "nascimento"
-    ],
+    "forbidden": ["grávida", "fraldas", "presentes", "jogos", "nascimento"],
     "category": "festas",
     "difficulty": 2
   },
   {
     "id": "c-0377",
     "word": "Chá de panela",
-    "forbidden": [
-      "noiva",
-      "utensílios",
-      "presentes",
-      "cozinha",
-      "amigas"
-    ],
+    "forbidden": ["noiva", "utensílios", "presentes", "cozinha", "amigas"],
     "category": "festas",
     "difficulty": 2
   },
   {
     "id": "c-0378",
     "word": "Despedida de solteiro",
-    "forbidden": [
-      "noivo",
-      "amigos",
-      "última noite",
-      "balada",
-      "brincadeiras"
-    ],
+    "forbidden": ["noivo", "amigos", "última noite", "balada", "brincadeiras"],
     "category": "festas",
     "difficulty": 2
   },
   {
     "id": "c-0379",
     "word": "Balada",
-    "forbidden": [
-      "música",
-      "pista",
-      "DJ",
-      "noite",
-      "dançar"
-    ],
+    "forbidden": ["música", "pista", "DJ", "noite", "dançar"],
     "category": "festas",
     "difficulty": 1
   },
   {
     "id": "c-0380",
     "word": "Boteco",
-    "forbidden": [
-      "bar",
-      "cerveja",
-      "petisco",
-      "mesa",
-      "amigos"
-    ],
+    "forbidden": ["bar", "cerveja", "petisco", "mesa", "amigos"],
     "category": "festas",
     "difficulty": 1
   },
   {
     "id": "c-0381",
     "word": "Convite",
-    "forbidden": [
-      "festa",
-      "papel",
-      "data",
-      "envelope",
-      "chamar"
-    ],
+    "forbidden": ["festa", "papel", "data", "envelope", "chamar"],
     "category": "festas",
     "difficulty": 1
   },
   {
     "id": "c-0382",
     "word": "Presente",
-    "forbidden": [
-      "embrulho",
-      "laço",
-      "aniversário",
-      "caixa",
-      "surpresa"
-    ],
+    "forbidden": ["embrulho", "laço", "aniversário", "caixa", "surpresa"],
     "category": "festas",
     "difficulty": 1
   },
   {
     "id": "c-0383",
     "word": "Balão",
-    "forbidden": [
-      "bexiga",
-      "ar",
-      "festa",
-      "estourar",
-      "gás"
-    ],
+    "forbidden": ["bexiga", "ar", "festa", "estourar", "gás"],
     "category": "festas",
     "difficulty": 1
   },
   {
     "id": "c-0384",
     "word": "Confete",
-    "forbidden": [
-      "papel",
-      "colorido",
-      "festa",
-      "jogar",
-      "carnaval"
-    ],
+    "forbidden": ["papel", "colorido", "festa", "jogar", "carnaval"],
     "category": "festas",
     "difficulty": 1
   },
   {
     "id": "c-0385",
     "word": "Fogos de artifício",
-    "forbidden": [
-      "explosão",
-      "céu",
-      "virada",
-      "luzes",
-      "barulho"
-    ],
+    "forbidden": ["explosão", "céu", "virada", "luzes", "barulho"],
     "category": "festas",
     "difficulty": 1
   },
   {
     "id": "c-0386",
     "word": "Fantasia",
-    "forbidden": [
-      "roupa",
-      "carnaval",
-      "disfarce",
-      "personagem",
-      "festa"
-    ],
+    "forbidden": ["roupa", "carnaval", "disfarce", "personagem", "festa"],
     "category": "festas",
     "difficulty": 1
   },
   {
     "id": "c-0387",
     "word": "Máscara",
-    "forbidden": [
-      "rosto",
-      "disfarce",
-      "carnaval",
-      "olhos",
-      "esconder"
-    ],
+    "forbidden": ["rosto", "disfarce", "carnaval", "olhos", "esconder"],
     "category": "festas",
     "difficulty": 1
   },
   {
     "id": "c-0388",
     "word": "Cerimônia",
-    "forbidden": [
-      "evento",
-      "formal",
-      "discurso",
-      "convidados",
-      "solene"
-    ],
+    "forbidden": ["evento", "formal", "discurso", "convidados", "solene"],
     "category": "festas",
     "difficulty": 2
   },
   {
     "id": "c-0389",
     "word": "Brinde",
-    "forbidden": [
-      "taça",
-      "comemorar",
-      "saúde",
-      "levantar",
-      "tintim"
-    ],
+    "forbidden": ["taça", "comemorar", "saúde", "levantar", "tintim"],
     "category": "festas",
     "difficulty": 1
   },
   {
     "id": "c-0390",
     "word": "Champanhe",
-    "forbidden": [
-      "taça",
-      "rolha",
-      "espumante",
-      "virada",
-      "estourar"
-    ],
+    "forbidden": ["taça", "rolha", "espumante", "virada", "estourar"],
     "category": "festas",
     "difficulty": 1
   },
   {
     "id": "c-0391",
     "word": "Amigo secreto",
-    "forbidden": [
-      "sorteio",
-      "presente",
-      "Natal",
-      "troca",
-      "escondido"
-    ],
+    "forbidden": ["sorteio", "presente", "Natal", "troca", "escondido"],
     "category": "festas",
     "difficulty": 1
   },
   {
     "id": "c-0392",
     "word": "Parabéns",
-    "forbidden": [
-      "cantar",
-      "aniversário",
-      "bolo",
-      "palmas",
-      "festa"
-    ],
+    "forbidden": ["cantar", "aniversário", "bolo", "palmas", "festa"],
     "category": "festas",
     "difficulty": 1
   },
   {
     "id": "c-0393",
     "word": "Reunião de família",
-    "forbidden": [
-      "domingo",
-      "parentes",
-      "almoço",
-      "avó",
-      "encontro"
-    ],
+    "forbidden": ["domingo", "parentes", "almoço", "avó", "encontro"],
     "category": "festas",
     "difficulty": 1
   },
   {
     "id": "c-0394",
     "word": "Ceia",
-    "forbidden": [
-      "jantar",
-      "Natal",
-      "mesa",
-      "peru",
-      "noite"
-    ],
+    "forbidden": ["jantar", "Natal", "mesa", "peru", "noite"],
     "category": "festas",
     "difficulty": 1
   },
   {
     "id": "c-0395",
     "word": "Procissão",
-    "forbidden": [
-      "igreja",
-      "santo",
-      "rua",
-      "fé",
-      "andar"
-    ],
+    "forbidden": ["igreja", "santo", "rua", "fé", "andar"],
     "category": "festas",
     "difficulty": 3
   },
   {
     "id": "c-0396",
     "word": "Feriado",
-    "forbidden": [
-      "folga",
-      "descanso",
-      "data",
-      "trabalho",
-      "emenda"
-    ],
+    "forbidden": ["folga", "descanso", "data", "trabalho", "emenda"],
     "category": "festas",
     "difficulty": 1
   },
   {
     "id": "c-0397",
     "word": "Férias",
-    "forbidden": [
-      "descanso",
-      "viagem",
-      "trabalho",
-      "escola",
-      "praia"
-    ],
+    "forbidden": ["descanso", "viagem", "trabalho", "escola", "praia"],
     "category": "festas",
     "difficulty": 1
   },
   {
     "id": "c-0398",
     "word": "Piquenique",
-    "forbidden": [
-      "toalha",
-      "cesta",
-      "parque",
-      "comida",
-      "grama"
-    ],
+    "forbidden": ["toalha", "cesta", "parque", "comida", "grama"],
     "category": "festas",
     "difficulty": 1
   },
   {
     "id": "c-0399",
     "word": "Acampamento",
-    "forbidden": [
-      "barraca",
-      "fogueira",
-      "floresta",
-      "noite",
-      "saco de dormir"
-    ],
+    "forbidden": ["barraca", "fogueira", "floresta", "noite", "saco de dormir"],
     "category": "festas",
     "difficulty": 1
   },
   {
     "id": "c-0400",
     "word": "Luau",
-    "forbidden": [
-      "praia",
-      "fogueira",
-      "violão",
-      "noite",
-      "Havaí"
-    ],
+    "forbidden": ["praia", "fogueira", "violão", "noite", "Havaí"],
     "category": "festas",
     "difficulty": 2
   },
   {
     "id": "c-0401",
     "word": "Celular",
-    "forbidden": [
-      "ligar",
-      "tela",
-      "bolso",
-      "telefone",
-      "aplicativo"
-    ],
+    "forbidden": ["ligar", "tela", "bolso", "telefone", "aplicativo"],
     "category": "tecnologia",
     "difficulty": 1
   },
   {
     "id": "c-0402",
     "word": "Computador",
-    "forbidden": [
-      "teclado",
-      "mouse",
-      "tela",
-      "internet",
-      "mesa"
-    ],
+    "forbidden": ["teclado", "mouse", "tela", "internet", "mesa"],
     "category": "tecnologia",
     "difficulty": 1
   },
   {
     "id": "c-0403",
     "word": "Notebook",
-    "forbidden": [
-      "portátil",
-      "teclado",
-      "tela",
-      "bateria",
-      "trabalho"
-    ],
+    "forbidden": ["portátil", "teclado", "tela", "bateria", "trabalho"],
     "category": "tecnologia",
     "difficulty": 1
   },
   {
     "id": "c-0404",
     "word": "Internet",
-    "forbidden": [
-      "rede",
-      "wifi",
-      "navegar",
-      "conexão",
-      "site"
-    ],
+    "forbidden": ["rede", "wifi", "navegar", "conexão", "site"],
     "category": "tecnologia",
     "difficulty": 1
   },
   {
     "id": "c-0405",
     "word": "Wi-Fi",
-    "forbidden": [
-      "sinal",
-      "senha",
-      "roteador",
-      "conexão",
-      "casa"
-    ],
+    "forbidden": ["sinal", "senha", "roteador", "conexão", "casa"],
     "category": "tecnologia",
     "difficulty": 1
   },
   {
     "id": "c-0406",
     "word": "Mouse",
-    "forbidden": [
-      "clique",
-      "computador",
-      "cursor",
-      "botão",
-      "tapete"
-    ],
+    "forbidden": ["clique", "computador", "cursor", "botão", "tapete"],
     "category": "tecnologia",
     "difficulty": 1
   },
   {
     "id": "c-0407",
     "word": "Teclado",
-    "forbidden": [
-      "QWERTY",
-      "digitar",
-      "letras",
-      "computador",
-      "escrever"
-    ],
+    "forbidden": ["QWERTY", "digitar", "letras", "computador", "escrever"],
     "category": "tecnologia",
     "difficulty": 1
   },
   {
     "id": "c-0408",
     "word": "Fone de ouvido",
-    "forbidden": [
-      "música",
-      "orelha",
-      "cabo",
-      "som",
-      "escutar"
-    ],
+    "forbidden": ["música", "orelha", "cabo", "som", "escutar"],
     "category": "tecnologia",
     "difficulty": 1
   },
   {
     "id": "c-0409",
     "word": "Carregador",
-    "forbidden": [
-      "bateria",
-      "tomada",
-      "cabo",
-      "celular",
-      "energia"
-    ],
+    "forbidden": ["bateria", "tomada", "cabo", "celular", "energia"],
     "category": "tecnologia",
     "difficulty": 1
   },
   {
     "id": "c-0410",
     "word": "Câmera",
-    "forbidden": [
-      "foto",
-      "lente",
-      "filmar",
-      "flash",
-      "imagem"
-    ],
+    "forbidden": ["foto", "lente", "filmar", "flash", "imagem"],
     "category": "tecnologia",
     "difficulty": 1
   },
   {
     "id": "c-0411",
     "word": "Drone",
-    "forbidden": [
-      "voar",
-      "controle",
-      "hélices",
-      "filmar",
-      "câmera"
-    ],
+    "forbidden": ["voar", "controle", "hélices", "filmar", "câmera"],
     "category": "tecnologia",
     "difficulty": 2
   },
   {
     "id": "c-0412",
     "word": "Videogame",
-    "forbidden": [
-      "controle",
-      "jogar",
-      "console",
-      "tela",
-      "fase"
-    ],
+    "forbidden": ["controle", "jogar", "console", "tela", "fase"],
     "category": "tecnologia",
     "difficulty": 1
   },
   {
     "id": "c-0413",
     "word": "Controle remoto",
-    "forbidden": [
-      "TV",
-      "botões",
-      "pilha",
-      "canal",
-      "mudar"
-    ],
+    "forbidden": ["TV", "botões", "pilha", "canal", "mudar"],
     "category": "tecnologia",
     "difficulty": 1
   },
   {
     "id": "c-0414",
     "word": "Senha",
-    "forbidden": [
-      "segredo",
-      "acesso",
-      "números",
-      "login",
-      "entrar"
-    ],
+    "forbidden": ["segredo", "acesso", "números", "login", "entrar"],
     "category": "tecnologia",
     "difficulty": 1
   },
   {
     "id": "c-0415",
     "word": "E-mail",
-    "forbidden": [
-      "mensagem",
-      "caixa de entrada",
-      "enviar",
-      "anexo",
-      "arroba"
-    ],
+    "forbidden": ["mensagem", "caixa de entrada", "enviar", "anexo", "arroba"],
     "category": "tecnologia",
     "difficulty": 1
   },
   {
     "id": "c-0416",
     "word": "Selfie",
-    "forbidden": [
-      "foto",
-      "celular",
-      "rosto",
-      "braço",
-      "sorriso"
-    ],
+    "forbidden": ["foto", "celular", "rosto", "braço", "sorriso"],
     "category": "tecnologia",
     "difficulty": 1
   },
   {
     "id": "c-0417",
     "word": "Aplicativo",
-    "forbidden": [
-      "celular",
-      "baixar",
-      "loja",
-      "ícone",
-      "instalar"
-    ],
+    "forbidden": ["celular", "baixar", "loja", "ícone", "instalar"],
     "category": "tecnologia",
     "difficulty": 1
   },
   {
     "id": "c-0418",
     "word": "Rede social",
-    "forbidden": [
-      "curtir",
-      "seguidores",
-      "perfil",
-      "postar",
-      "feed"
-    ],
+    "forbidden": ["curtir", "seguidores", "perfil", "postar", "feed"],
     "category": "tecnologia",
     "difficulty": 1
   },
   {
     "id": "c-0419",
     "word": "Influenciador",
-    "forbidden": [
-      "seguidores",
-      "redes",
-      "publi",
-      "vídeos",
-      "fama"
-    ],
+    "forbidden": ["seguidores", "redes", "publi", "vídeos", "fama"],
     "category": "tecnologia",
     "difficulty": 2
   },
   {
     "id": "c-0420",
     "word": "Podcast",
-    "forbidden": [
-      "episódio",
-      "áudio",
-      "programa",
-      "conversa",
-      "ouvir"
-    ],
+    "forbidden": ["episódio", "áudio", "programa", "conversa", "ouvir"],
     "category": "tecnologia",
     "difficulty": 1
   },
   {
     "id": "c-0421",
     "word": "Streaming",
-    "forbidden": [
-      "filme",
-      "assinar",
-      "série",
-      "TV",
-      "plataforma"
-    ],
+    "forbidden": ["filme", "assinar", "série", "TV", "plataforma"],
     "category": "tecnologia",
     "difficulty": 1
   },
   {
     "id": "c-0422",
     "word": "GPS",
-    "forbidden": [
-      "mapa",
-      "rota",
-      "localização",
-      "direção",
-      "satélite"
-    ],
+    "forbidden": ["mapa", "rota", "localização", "direção", "satélite"],
     "category": "tecnologia",
     "difficulty": 1
   },
   {
     "id": "c-0423",
     "word": "Satélite",
-    "forbidden": [
-      "espaço",
-      "órbita",
-      "sinal",
-      "GPS",
-      "Terra"
-    ],
+    "forbidden": ["espaço", "órbita", "sinal", "GPS", "Terra"],
     "category": "tecnologia",
     "difficulty": 2
   },
   {
     "id": "c-0424",
     "word": "Robô aspirador",
-    "forbidden": [
-      "limpar",
-      "sozinho",
-      "poeira",
-      "chão",
-      "casa"
-    ],
+    "forbidden": ["limpar", "sozinho", "poeira", "chão", "casa"],
     "category": "tecnologia",
     "difficulty": 2
   },
   {
     "id": "c-0425",
     "word": "Impressora",
-    "forbidden": [
-      "papel",
-      "tinta",
-      "imprimir",
-      "cópia",
-      "folha"
-    ],
+    "forbidden": ["papel", "tinta", "imprimir", "cópia", "folha"],
     "category": "tecnologia",
     "difficulty": 1
   },
   {
     "id": "c-0426",
     "word": "Antivírus",
-    "forbidden": [
-      "proteção",
-      "hacker",
-      "programa",
-      "scan",
-      "computador"
-    ],
+    "forbidden": ["proteção", "hacker", "programa", "scan", "computador"],
     "category": "tecnologia",
     "difficulty": 2
   },
   {
     "id": "c-0427",
     "word": "Hacker",
-    "forbidden": [
-      "invadir",
-      "computador",
-      "senha",
-      "código",
-      "crime"
-    ],
+    "forbidden": ["invadir", "computador", "senha", "código", "crime"],
     "category": "tecnologia",
     "difficulty": 2
   },
   {
     "id": "c-0428",
     "word": "Inteligência artificial",
-    "forbidden": [
-      "robô",
-      "chat",
-      "máquina",
-      "aprender",
-      "computador"
-    ],
+    "forbidden": ["robô", "chat", "máquina", "aprender", "computador"],
     "category": "tecnologia",
     "difficulty": 2
   },
   {
     "id": "c-0429",
     "word": "Realidade virtual",
-    "forbidden": [
-      "óculos",
-      "mundo",
-      "jogo",
-      "imersão",
-      "3D"
-    ],
+    "forbidden": ["óculos", "mundo", "jogo", "imersão", "3D"],
     "category": "tecnologia",
     "difficulty": 2
   },
   {
     "id": "c-0430",
     "word": "Smartwatch",
-    "forbidden": [
-      "pulso",
-      "relógio",
-      "notificações",
-      "passos",
-      "tela"
-    ],
+    "forbidden": ["pulso", "relógio", "notificações", "passos", "tela"],
     "category": "tecnologia",
     "difficulty": 2
   },
   {
     "id": "c-0431",
     "word": "Calculadora",
-    "forbidden": [
-      "números",
-      "contas",
-      "somar",
-      "botões",
-      "matemática"
-    ],
+    "forbidden": ["números", "contas", "somar", "botões", "matemática"],
     "category": "tecnologia",
     "difficulty": 1
   },
   {
     "id": "c-0432",
     "word": "Alarme",
-    "forbidden": [
-      "despertador",
-      "tocar",
-      "acordar",
-      "sirene",
-      "horas"
-    ],
+    "forbidden": ["despertador", "tocar", "acordar", "sirene", "horas"],
     "category": "tecnologia",
     "difficulty": 1
   },
   {
     "id": "c-0433",
     "word": "Rádio",
-    "forbidden": [
-      "FM",
-      "música",
-      "antena",
-      "ouvir",
-      "notícias"
-    ],
+    "forbidden": ["FM", "música", "antena", "ouvir", "notícias"],
     "category": "tecnologia",
     "difficulty": 1
   },
   {
     "id": "c-0434",
     "word": "Telefone",
-    "forbidden": [
-      "ligar",
-      "fio",
-      "número",
-      "atender",
-      "chamada"
-    ],
+    "forbidden": ["ligar", "fio", "número", "atender", "chamada"],
     "category": "tecnologia",
     "difficulty": 1
   },
   {
     "id": "c-0435",
     "word": "Bluetooth",
-    "forbidden": [
-      "sem fio",
-      "conectar",
-      "fone",
-      "pareamento",
-      "caixinha"
-    ],
+    "forbidden": ["sem fio", "conectar", "fone", "pareamento", "caixinha"],
     "category": "tecnologia",
     "difficulty": 2
   },
   {
     "id": "c-0436",
     "word": "QR Code",
-    "forbidden": [
-      "escanear",
-      "quadradinho",
-      "câmera",
-      "link",
-      "pagamento"
-    ],
+    "forbidden": ["escanear", "quadradinho", "câmera", "link", "pagamento"],
     "category": "tecnologia",
     "difficulty": 2
   },
   {
     "id": "c-0437",
     "word": "Pix",
-    "forbidden": [
-      "pagamento",
-      "transferência",
-      "banco",
-      "chave",
-      "instantâneo"
-    ],
+    "forbidden": ["pagamento", "transferência", "banco", "chave", "instantâneo"],
     "category": "tecnologia",
     "difficulty": 1
   },
   {
     "id": "c-0438",
     "word": "Delivery",
-    "forbidden": [
-      "entrega",
-      "pedido",
-      "motoboy",
-      "comida",
-      "aplicativo"
-    ],
+    "forbidden": ["entrega", "pedido", "motoboy", "comida", "aplicativo"],
     "category": "tecnologia",
     "difficulty": 1
   },
   {
     "id": "c-0439",
     "word": "Chuva",
-    "forbidden": [
-      "gotas",
-      "nuvem",
-      "molhar",
-      "tempestade",
-      "céu"
-    ],
+    "forbidden": ["gotas", "nuvem", "molhar", "tempestade", "céu"],
     "category": "natureza",
     "difficulty": 1
   },
   {
     "id": "c-0440",
     "word": "Sol",
-    "forbidden": [
-      "luz",
-      "calor",
-      "dia",
-      "estrela",
-      "amarelo"
-    ],
+    "forbidden": ["luz", "calor", "dia", "estrela", "amarelo"],
     "category": "natureza",
     "difficulty": 1
   },
   {
     "id": "c-0441",
     "word": "Lua",
-    "forbidden": [
-      "noite",
-      "cheia",
-      "satélite",
-      "céu",
-      "crescente"
-    ],
+    "forbidden": ["noite", "cheia", "satélite", "céu", "crescente"],
     "category": "natureza",
     "difficulty": 1
   },
   {
     "id": "c-0442",
     "word": "Estrela",
-    "forbidden": [
-      "céu",
-      "noite",
-      "brilho",
-      "cadente",
-      "galáxia"
-    ],
+    "forbidden": ["céu", "noite", "brilho", "cadente", "galáxia"],
     "category": "natureza",
     "difficulty": 1
   },
   {
     "id": "c-0443",
     "word": "Vento",
-    "forbidden": [
-      "ar",
-      "soprar",
-      "brisa",
-      "furacão",
-      "folhas"
-    ],
+    "forbidden": ["ar", "soprar", "brisa", "furacão", "folhas"],
     "category": "natureza",
     "difficulty": 1
   },
   {
     "id": "c-0444",
     "word": "Trovão",
-    "forbidden": [
-      "barulho",
-      "raio",
-      "tempestade",
-      "estrondo",
-      "chuva"
-    ],
+    "forbidden": ["barulho", "raio", "tempestade", "estrondo", "chuva"],
     "category": "natureza",
     "difficulty": 1
   },
   {
     "id": "c-0445",
     "word": "Raio",
-    "forbidden": [
-      "trovão",
-      "tempestade",
-      "luz",
-      "céu",
-      "descarga"
-    ],
+    "forbidden": ["trovão", "tempestade", "luz", "céu", "descarga"],
     "category": "natureza",
     "difficulty": 1
   },
   {
     "id": "c-0446",
     "word": "Arco-íris",
-    "forbidden": [
-      "cores",
-      "chuva",
-      "sol",
-      "sete",
-      "céu"
-    ],
+    "forbidden": ["cores", "chuva", "sol", "sete", "céu"],
     "category": "natureza",
     "difficulty": 1
   },
   {
     "id": "c-0447",
     "word": "Neve",
-    "forbidden": [
-      "branca",
-      "frio",
-      "gelo",
-      "inverno",
-      "boneco"
-    ],
+    "forbidden": ["branca", "frio", "gelo", "inverno", "boneco"],
     "category": "natureza",
     "difficulty": 1
   },
   {
     "id": "c-0448",
     "word": "Gelo",
-    "forbidden": [
-      "frio",
-      "cubo",
-      "derreter",
-      "água",
-      "congelado"
-    ],
+    "forbidden": ["frio", "cubo", "derreter", "água", "congelado"],
     "category": "natureza",
     "difficulty": 1
   },
   {
     "id": "c-0449",
     "word": "Fogo",
-    "forbidden": [
-      "chama",
-      "queimar",
-      "quente",
-      "fogueira",
-      "labareda"
-    ],
+    "forbidden": ["chama", "queimar", "quente", "fogueira", "labareda"],
     "category": "natureza",
     "difficulty": 1
   },
   {
     "id": "c-0450",
     "word": "Terremoto",
-    "forbidden": [
-      "tremor",
-      "chão",
-      "abalo",
-      "Terra",
-      "desastre"
-    ],
+    "forbidden": ["tremor", "chão", "abalo", "sismo", "desastre"],
     "category": "natureza",
     "difficulty": 2
   },
   {
     "id": "c-0451",
     "word": "Vulcão",
-    "forbidden": [
-      "lava",
-      "erupção",
-      "montanha",
-      "fogo",
-      "cinzas"
-    ],
+    "forbidden": ["lava", "erupção", "montanha", "fogo", "cinzas"],
     "category": "natureza",
     "difficulty": 1
   },
   {
     "id": "c-0452",
     "word": "Furacão",
-    "forbidden": [
-      "vento",
-      "tempestade",
-      "destruição",
-      "Caribe",
-      "ciclone"
-    ],
+    "forbidden": ["vento", "tempestade", "destruição", "Caribe", "ciclone"],
     "category": "natureza",
     "difficulty": 2
   },
   {
     "id": "c-0453",
     "word": "Rio",
-    "forbidden": [
-      "água",
-      "correnteza",
-      "margem",
-      "peixes",
-      "mar"
-    ],
+    "forbidden": ["água", "correnteza", "margem", "peixes", "mar"],
     "category": "natureza",
     "difficulty": 1
   },
   {
     "id": "c-0454",
     "word": "Mar",
-    "forbidden": [
-      "ondas",
-      "sal",
-      "praia",
-      "azul",
-      "oceano"
-    ],
+    "forbidden": ["ondas", "sal", "praia", "azul", "oceano"],
     "category": "natureza",
     "difficulty": 1
   },
   {
     "id": "c-0455",
     "word": "Lago",
-    "forbidden": [
-      "água",
-      "calmo",
-      "pedalinho",
-      "peixes",
-      "margem"
-    ],
+    "forbidden": ["água", "calmo", "pedalinho", "peixes", "margem"],
     "category": "natureza",
     "difficulty": 1
   },
   {
     "id": "c-0456",
     "word": "Oceano",
-    "forbidden": [
-      "mar",
-      "profundo",
-      "imenso",
-      "azul",
-      "navios"
-    ],
+    "forbidden": ["mar", "profundo", "imenso", "azul", "navios"],
     "category": "natureza",
     "difficulty": 1
   },
   {
     "id": "c-0457",
     "word": "Árvore",
-    "forbidden": [
-      "tronco",
-      "folhas",
-      "galhos",
-      "raízes",
-      "sombra"
-    ],
+    "forbidden": ["tronco", "folhas", "galhos", "raízes", "sombra"],
     "category": "natureza",
     "difficulty": 1
   },
   {
     "id": "c-0458",
     "word": "Flor",
-    "forbidden": [
-      "pétalas",
-      "jardim",
-      "perfume",
-      "rosa",
-      "abelha"
-    ],
+    "forbidden": ["pétalas", "jardim", "perfume", "rosa", "abelha"],
     "category": "natureza",
     "difficulty": 1
   },
   {
     "id": "c-0459",
     "word": "Rosa",
-    "forbidden": [
-      "espinhos",
-      "flor",
-      "vermelha",
-      "perfume",
-      "buquê"
-    ],
+    "forbidden": ["espinhos", "flor", "vermelha", "perfume", "buquê"],
     "category": "natureza",
     "difficulty": 1
   },
   {
     "id": "c-0460",
     "word": "Grama",
-    "forbidden": [
-      "verde",
-      "jardim",
-      "campo",
-      "cortar",
-      "chão"
-    ],
+    "forbidden": ["verde", "jardim", "campo", "cortar", "chão"],
     "category": "natureza",
     "difficulty": 1
   },
   {
     "id": "c-0461",
     "word": "Folha",
-    "forbidden": [
-      "árvore",
-      "verde",
-      "outono",
-      "cair",
-      "galho"
-    ],
+    "forbidden": ["árvore", "verde", "outono", "cair", "galho"],
     "category": "natureza",
     "difficulty": 1
   },
   {
     "id": "c-0462",
     "word": "Pedra",
-    "forbidden": [
-      "dura",
-      "rocha",
-      "chão",
-      "pesada",
-      "atirar"
-    ],
+    "forbidden": ["dura", "rocha", "chão", "pesada", "atirar"],
     "category": "natureza",
     "difficulty": 1
   },
   {
     "id": "c-0463",
     "word": "Areia",
-    "forbidden": [
-      "praia",
-      "grãos",
-      "castelo",
-      "deserto",
-      "sol"
-    ],
+    "forbidden": ["praia", "grãos", "castelo", "deserto", "sol"],
     "category": "natureza",
     "difficulty": 1
   },
   {
     "id": "c-0464",
     "word": "Vale",
-    "forbidden": [
-      "montanhas",
-      "rio",
-      "baixo",
-      "verde",
-      "planície"
-    ],
+    "forbidden": ["montanhas", "rio", "baixo", "verde", "planície"],
     "category": "natureza",
     "difficulty": 2
   },
   {
     "id": "c-0465",
     "word": "Planeta",
-    "forbidden": [
-      "Terra",
-      "espaço",
-      "órbita",
-      "sistema solar",
-      "Marte"
-    ],
+    "forbidden": ["Terra", "espaço", "órbita", "sistema solar", "Marte"],
     "category": "natureza",
     "difficulty": 1
   },
   {
     "id": "c-0466",
     "word": "Galáxia",
-    "forbidden": [
-      "estrelas",
-      "espaço",
-      "Via Láctea",
-      "universo",
-      "imensa"
-    ],
+    "forbidden": ["estrelas", "espaço", "Via Láctea", "universo", "imensa"],
     "category": "natureza",
     "difficulty": 2
   },
   {
     "id": "c-0467",
     "word": "Cometa",
-    "forbidden": [
-      "cauda",
-      "espaço",
-      "gelo",
-      "órbita",
-      "céu"
-    ],
+    "forbidden": ["cauda", "espaço", "gelo", "órbita", "céu"],
     "category": "natureza",
     "difficulty": 2
   },
   {
     "id": "c-0468",
     "word": "Eclipse",
-    "forbidden": [
-      "sombra",
-      "astro",
-      "escurecer",
-      "céu",
-      "fenômeno"
-    ],
+    "forbidden": ["sombra", "astro", "escurecer", "céu", "fenômeno"],
     "category": "natureza",
     "difficulty": 2
   },
   {
     "id": "c-0469",
     "word": "Nuvem",
-    "forbidden": [
-      "céu",
-      "chuva",
-      "branca",
-      "algodão",
-      "vapor"
-    ],
+    "forbidden": ["céu", "chuva", "branca", "algodão", "vapor"],
     "category": "natureza",
     "difficulty": 1
   },
   {
     "id": "c-0470",
     "word": "Neblina",
-    "forbidden": [
-      "névoa",
-      "manhã",
-      "pouca visibilidade",
-      "frio",
-      "cinza"
-    ],
+    "forbidden": ["névoa", "manhã", "pouca visibilidade", "frio", "cinza"],
     "category": "natureza",
     "difficulty": 2
   },
   {
     "id": "c-0471",
     "word": "Pântano",
-    "forbidden": [
-      "lama",
-      "água",
-      "jacaré",
-      "brejo",
-      "mangue"
-    ],
+    "forbidden": ["lama", "água", "jacaré", "brejo", "mangue"],
     "category": "natureza",
     "difficulty": 2
   },
   {
     "id": "c-0472",
     "word": "Caverna",
-    "forbidden": [
-      "escura",
-      "morcego",
-      "pedra",
-      "gruta",
-      "túnel"
-    ],
+    "forbidden": ["escura", "morcego", "pedra", "gruta", "túnel"],
     "category": "natureza",
     "difficulty": 2
   },
   {
     "id": "c-0473",
     "word": "Savana",
-    "forbidden": [
-      "África",
-      "leões",
-      "planície",
-      "seca",
-      "gramado"
-    ],
+    "forbidden": ["África", "leões", "planície", "seca", "gramado"],
     "category": "natureza",
     "difficulty": 2
   },
   {
     "id": "c-0474",
     "word": "Ártico",
-    "forbidden": [
-      "gelo",
-      "urso polar",
-      "frio",
-      "polo",
-      "norte"
-    ],
+    "forbidden": ["gelo", "urso polar", "frio", "polo", "norte"],
     "category": "natureza",
     "difficulty": 2
   },
   {
     "id": "c-0475",
     "word": "Orvalho",
-    "forbidden": [
-      "gotas",
-      "manhã",
-      "grama",
-      "umidade",
-      "água"
-    ],
+    "forbidden": ["gotas", "manhã", "grama", "umidade", "água"],
     "category": "natureza",
     "difficulty": 3
   },
   {
     "id": "c-0476",
     "word": "Avó",
-    "forbidden": [
-      "neta",
-      "bolo",
-      "tricô",
-      "carinho",
-      "velhinha"
-    ],
+    "forbidden": ["neta", "bolo", "tricô", "carinho", "velhinha"],
     "category": "pessoas",
     "difficulty": 1
   },
   {
     "id": "c-0477",
     "word": "Bebê",
-    "forbidden": [
-      "fralda",
-      "choro",
-      "mamadeira",
-      "recém-nascido",
-      "colo"
-    ],
+    "forbidden": ["fralda", "choro", "mamadeira", "recém-nascido", "colo"],
     "category": "pessoas",
     "difficulty": 1
   },
   {
     "id": "c-0478",
     "word": "Criança",
-    "forbidden": [
-      "brincar",
-      "pequena",
-      "escola",
-      "infância",
-      "filho"
-    ],
+    "forbidden": ["brincar", "pequena", "escola", "infância", "filho"],
     "category": "pessoas",
     "difficulty": 1
   },
   {
     "id": "c-0479",
     "word": "Adolescente",
-    "forbidden": [
-      "jovem",
-      "escola",
-      "espinha",
-      "idade",
-      "rebelde"
-    ],
+    "forbidden": ["jovem", "escola", "espinha", "idade", "rebelde"],
     "category": "pessoas",
     "difficulty": 1
   },
   {
     "id": "c-0480",
     "word": "Idoso",
-    "forbidden": [
-      "velho",
-      "bengala",
-      "aposentado",
-      "rugas",
-      "aniversário"
-    ],
+    "forbidden": ["velho", "bengala", "aposentado", "rugas", "aniversário"],
     "category": "pessoas",
     "difficulty": 1
   },
   {
     "id": "c-0481",
     "word": "Vizinho",
-    "forbidden": [
-      "casa",
-      "prédio",
-      "barulho",
-      "ao lado",
-      "cumprimentar"
-    ],
+    "forbidden": ["casa", "prédio", "barulho", "ao lado", "cumprimentar"],
     "category": "pessoas",
     "difficulty": 1
   },
   {
     "id": "c-0482",
     "word": "Chefe",
-    "forbidden": [
-      "trabalho",
-      "escritório",
-      "ordem",
-      "empresa",
-      "patrão"
-    ],
+    "forbidden": ["trabalho", "escritório", "ordem", "empresa", "patrão"],
     "category": "pessoas",
     "difficulty": 1
   },
   {
     "id": "c-0483",
     "word": "Amigo",
-    "forbidden": [
-      "companheiro",
-      "festa",
-      "confiança",
-      "parceiro",
-      "colega"
-    ],
+    "forbidden": ["companheiro", "festa", "confiança", "parceiro", "colega"],
     "category": "pessoas",
     "difficulty": 1
   },
   {
     "id": "c-0484",
     "word": "Inimigo",
-    "forbidden": [
-      "briga",
-      "rival",
-      "ódio",
-      "guerra",
-      "adversário"
-    ],
+    "forbidden": ["briga", "rival", "ódio", "guerra", "adversário"],
     "category": "pessoas",
     "difficulty": 1
   },
   {
     "id": "c-0485",
     "word": "Namorado",
-    "forbidden": [
-      "casal",
-      "paixão",
-      "beijo",
-      "romântico",
-      "par"
-    ],
+    "forbidden": ["casal", "paixão", "beijo", "romântico", "par"],
     "category": "pessoas",
     "difficulty": 1
   },
   {
     "id": "c-0486",
     "word": "Noiva",
-    "forbidden": [
-      "casamento",
-      "vestido",
-      "véu",
-      "altar",
-      "buquê"
-    ],
+    "forbidden": ["casamento", "vestido", "véu", "altar", "buquê"],
     "category": "pessoas",
     "difficulty": 1
   },
   {
     "id": "c-0487",
     "word": "Gêmeos",
-    "forbidden": [
-      "irmãos",
-      "iguais",
-      "dois",
-      "nascer",
-      "parecidos"
-    ],
+    "forbidden": ["irmãos", "iguais", "dois", "nascer", "parecidos"],
     "category": "pessoas",
     "difficulty": 1
   },
   {
     "id": "c-0488",
     "word": "Madrinha",
-    "forbidden": [
-      "batizado",
-      "casamento",
-      "festa",
-      "filha",
-      "escolhida"
-    ],
+    "forbidden": ["batizado", "casamento", "festa", "filha", "escolhida"],
     "category": "pessoas",
     "difficulty": 2
   },
   {
     "id": "c-0489",
     "word": "Padrinho",
-    "forbidden": [
-      "batizado",
-      "afilhado",
-      "casamento",
-      "escolhido",
-      "festa"
-    ],
+    "forbidden": ["batizado", "afilhado", "casamento", "escolhido", "festa"],
     "category": "pessoas",
     "difficulty": 2
   },
   {
     "id": "c-0490",
     "word": "Sogra",
-    "forbidden": [
-      "marido",
-      "mãe",
-      "genro",
-      "piada",
-      "casamento"
-    ],
+    "forbidden": ["marido", "mãe", "genro", "piada", "casamento"],
     "category": "pessoas",
     "difficulty": 2
   },
   {
     "id": "c-0491",
     "word": "Estrangeiro",
-    "forbidden": [
-      "outro país",
-      "turista",
-      "idioma",
-      "fora",
-      "sotaque"
-    ],
+    "forbidden": ["outro país", "turista", "idioma", "fora", "sotaque"],
     "category": "pessoas",
     "difficulty": 2
   },
   {
     "id": "c-0492",
     "word": "Herói",
-    "forbidden": [
-      "salvar",
-      "coragem",
-      "bravo",
-      "capa",
-      "vilão"
-    ],
+    "forbidden": ["salvar", "coragem", "bravo", "capa", "vilão"],
     "category": "pessoas",
     "difficulty": 1
   },
   {
     "id": "c-0493",
     "word": "Rei",
-    "forbidden": [
-      "coroa",
-      "trono",
-      "majestade",
-      "rainha",
-      "castelo"
-    ],
+    "forbidden": ["coroa", "trono", "majestade", "rainha", "castelo"],
     "category": "pessoas",
     "difficulty": 1
   },
   {
     "id": "c-0494",
     "word": "Rainha",
-    "forbidden": [
-      "coroa",
-      "trono",
-      "reino",
-      "rei",
-      "castelo"
-    ],
+    "forbidden": ["coroa", "trono", "reino", "rei", "castelo"],
     "category": "pessoas",
     "difficulty": 1
   },
   {
     "id": "c-0495",
     "word": "Turista",
-    "forbidden": [
-      "viagem",
-      "câmera",
-      "pontos",
-      "passeio",
-      "mapa"
-    ],
+    "forbidden": ["viagem", "câmera", "pontos", "passeio", "mapa"],
     "category": "pessoas",
     "difficulty": 1
   },
   {
     "id": "c-0496",
     "word": "Famoso",
-    "forbidden": [
-      "fama",
-      "celebridade",
-      "estrela",
-      "conhecido",
-      "fãs"
-    ],
+    "forbidden": ["fama", "celebridade", "estrela", "conhecido", "fãs"],
     "category": "pessoas",
     "difficulty": 1
   },
   {
     "id": "c-0497",
     "word": "Gigante",
-    "forbidden": [
-      "enorme",
-      "alto",
-      "grande",
-      "conto",
-      "pé"
-    ],
+    "forbidden": ["enorme", "alto", "grande", "conto", "pé"],
     "category": "pessoas",
     "difficulty": 1
   },
   {
     "id": "c-0498",
     "word": "Soldado",
-    "forbidden": [
-      "exército",
-      "guerra",
-      "farda",
-      "arma",
-      "quartel"
-    ],
+    "forbidden": ["exército", "guerra", "farda", "arma", "quartel"],
     "category": "pessoas",
     "difficulty": 1
   },
   {
     "id": "c-0499",
     "word": "Vilão",
-    "forbidden": [
-      "mal",
-      "herói",
-      "filme",
-      "maldoso",
-      "malvado"
-    ],
+    "forbidden": ["mal", "herói", "filme", "maldoso", "malvado"],
     "category": "pessoas",
     "difficulty": 1
   },
   {
     "id": "c-0500",
     "word": "Cunhado",
-    "forbidden": [
-      "irmão",
-      "esposa",
-      "família",
-      "parente",
-      "casamento"
-    ],
+    "forbidden": ["irmão", "esposa", "família", "parente", "casamento"],
     "category": "pessoas",
     "difficulty": 2
   }

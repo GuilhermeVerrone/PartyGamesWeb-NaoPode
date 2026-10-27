@@ -16,7 +16,7 @@
     "id": "c-0002",
     "word": "Feijoada",
     "forbidden": [
-      "feijão",
+      "grão",
       "preto",
       "sábado",
       "linguiça",
@@ -1084,7 +1084,7 @@
     "forbidden": [
       "corte",
       "navalha",
-      "barba",
+      "tesoura",
       "cadeira",
       "cabelo"
     ],
@@ -1112,7 +1112,7 @@
       "máquina",
       "sabão",
       "secar",
-      "lavar"
+      "tintureiro"
     ],
     "category": "lugares",
     "difficulty": 2
@@ -1381,7 +1381,7 @@
     "id": "c-0107",
     "word": "Ventilador",
     "forbidden": [
-      "vento",
+      "ar",
       "hélice",
       "calor",
       "ligar",
@@ -1411,7 +1411,7 @@
       "boca",
       "cerdas",
       "banheiro",
-      "dentista"
+      "cabo"
     ],
     "category": "objetos",
     "difficulty": 1
@@ -1579,7 +1579,7 @@
       "dinheiro",
       "documentos",
       "bolso",
-      "cartão",
+      "bolsa",
       "couro"
     ],
     "category": "objetos",
@@ -2044,7 +2044,7 @@
     "id": "c-0158",
     "word": "Dentista",
     "forbidden": [
-      "dentes",
+      "cárie",
       "boca",
       "consultório",
       "broca",
@@ -2330,7 +2330,7 @@
     "id": "c-0180",
     "word": "Carteiro",
     "forbidden": [
-      "cartas",
+      "moto",
       "correios",
       "entregar",
       "envelope",
@@ -3045,7 +3045,7 @@
     "id": "c-0235",
     "word": "Corrida",
     "forbidden": [
-      "correr",
+      "suor",
       "maratona",
       "pista",
       "tênis",
@@ -5843,7 +5843,7 @@
       "tremor",
       "chão",
       "abalo",
-      "Terra",
+      "sismo",
       "desastre"
     ],
     "category": "natureza",
