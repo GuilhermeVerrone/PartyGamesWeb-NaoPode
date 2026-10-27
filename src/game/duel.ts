@@ -52,10 +52,7 @@ export const DEFAULT_DUEL_SETTINGS: DuelSettings = {
 export const other = (side: Side): Side => (side === 'a' ? 'b' : 'a')
 
 /** Embaralha e reparte alternadamente: os dois baralhos nunca compartilham ids. */
-export function splitDecks(
-  cards: readonly Card[],
-  rng?: Rng,
-): { a: string[]; b: string[] } {
+export function splitDecks(cards: readonly Card[], rng?: Rng): { a: string[]; b: string[] } {
   const ids = shuffle([...new Set(cards.map((c) => c.id))], rng)
   return {
     a: ids.filter((_, i) => i % 2 === 0),
